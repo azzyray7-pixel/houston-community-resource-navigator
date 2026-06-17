@@ -1,0 +1,268 @@
+{
+  "resources": [
+    {
+      "id": 13,
+      "name": "AAMA Adelante Adult Literacy",
+      "category": "Education & ESL",
+      "neighborhood": "East End",
+      "zip": "77023",
+      "phone": "",
+      "website": "",
+      "description": "Free ESL adult basic education GED computer literacy and workforce certification classes plus free child care for qualifying students. Contact via 211texas.org."
+    },
+    {
+      "id": 12,
+      "name": "AVANCE-Houston",
+      "category": "Education & ESL",
+      "neighborhood": "Northside",
+      "zip": "77009",
+      "phone": "",
+      "website": "avance.org",
+      "description": "Parent and early-childhood education programs including ESL Head Start and General Equivalency Diploma preparation for low-income families."
+    },
+    {
+      "id": 10,
+      "name": "BakerRipley Adult Education",
+      "category": "Education & ESL",
+      "neighborhood": "Citywide",
+      "zip": "",
+      "phone": "713-273-3719",
+      "website": "economicinitiatives.bakerripley.org",
+      "description": "Free ESL GED and computer literacy classes for adult learners at multiple campuses across Harris County with no minimum education requirement."
+    },
+    {
+      "id": 14,
+      "name": "HCDE Adult Education ESL",
+      "category": "Education & ESL",
+      "neighborhood": "Citywide",
+      "zip": "",
+      "phone": "",
+      "website": "hcde-texas.org",
+      "description": "Harris County Department of Education program offering free beginning through advanced ESL classes online and in person across the county."
+    },
+    {
+      "id": 15,
+      "name": "Houston Public Library - Cultural Connections & ESL",
+      "category": "Education & ESL",
+      "neighborhood": "Citywide",
+      "zip": "",
+      "phone": "",
+      "website": "houstonlibrary.org",
+      "description": "Free English and language-learning classes plus cultural-orientation programming open to new immigrants at branches across the city."
+    },
+    {
+      "id": 11,
+      "name": "Literacy Advance - Memorial Assistance Ministries",
+      "category": "Education & ESL",
+      "neighborhood": "Spring Branch",
+      "zip": "77043",
+      "phone": "",
+      "website": "mamhouston.org",
+      "description": "Free English and reading classes for adults running since 1964 supported by volunteer tutors plus citizenship and employment-readiness classes."
+    },
+    {
+      "id": 19,
+      "name": "Houston Food Bank",
+      "category": "Food Assistance",
+      "neighborhood": "Northwest Houston",
+      "zip": "77092",
+      "phone": "",
+      "website": "houstonfoodbank.org",
+      "description": "Largest hunger-relief organization in southeast Texas coordinating pantries meal programs and produce distributions across 18 counties."
+    },
+    {
+      "id": 21,
+      "name": "Interfaith Ministries for Greater Houston",
+      "category": "Food Assistance",
+      "neighborhood": "Montrose",
+      "zip": "77006",
+      "phone": "713-533-4900",
+      "website": "imgh.org",
+      "description": "Emergency food assistance and a Meals on Wheels senior meals program alongside refugee housing English classes and job placement support."
+    },
+    {
+      "id": 22,
+      "name": "Kids' Meals",
+      "category": "Food Assistance",
+      "neighborhood": "Citywide",
+      "zip": "",
+      "phone": "",
+      "website": "kidsmealsinc.org",
+      "description": "Delivers free healthy meals on weekdays to the homes of children under six and connects families to a broader support network."
+    },
+    {
+      "id": 20,
+      "name": "Target Hunger",
+      "category": "Food Assistance",
+      "neighborhood": "Near Northside",
+      "zip": "77026",
+      "phone": "",
+      "website": "targethunger.org",
+      "description": "Food assistance and navigation programs that provided food to more than 25000 individuals and 9200 households across Houston in 2025."
+    },
+    {
+      "id": 17,
+      "name": "El Centro de Corazon",
+      "category": "Healthcare",
+      "neighborhood": "East End",
+      "zip": "77011",
+      "phone": "",
+      "website": "",
+      "description": "Federally qualified health center serving low-income and predominantly Hispanic families in Houston's East End with medical and dental care."
+    },
+    {
+      "id": 16,
+      "name": "HOPE Clinic",
+      "category": "Healthcare",
+      "neighborhood": "Southwest Houston",
+      "zip": "77036",
+      "phone": "",
+      "website": "",
+      "description": "Multicultural community health center providing primary medical dental and behavioral health care for low-income and immigrant families."
+    },
+    {
+      "id": 18,
+      "name": "Legacy Community Health",
+      "category": "Healthcare",
+      "neighborhood": "Citywide",
+      "zip": "",
+      "phone": "",
+      "website": "legacycommunityhealth.org",
+      "description": "Federally qualified health network with clinics across Houston offering sliding-scale primary care for low-income and uninsured residents."
+    },
+    {
+      "id": 9,
+      "name": "BakerRipley Gulfton-Sharpstown Campus",
+      "category": "Multi-Service Community Center",
+      "neighborhood": "Gulfton",
+      "zip": "77081",
+      "phone": "",
+      "website": "bakerripley.org",
+      "description": "Five-building neighborhood campus offering early childhood education youth programs immigration services and a community garden for residents from 80-plus countries."
+    },
+    {
+      "id": 7,
+      "name": "BPSOS-Houston",
+      "category": "Refugee & Immigration Services",
+      "neighborhood": "Alief",
+      "zip": "77072",
+      "phone": "",
+      "website": "bpsos.org",
+      "description": "Boat People S.O.S. affiliate supporting Vietnamese and other Southeast Asian immigrant and refugee families with case management and civic engagement."
+    },
+    {
+      "id": 4,
+      "name": "CWS Houston",
+      "category": "Refugee & Immigration Services",
+      "neighborhood": "Spring Branch",
+      "zip": "77055",
+      "phone": "",
+      "website": "cwshouston.org",
+      "description": "Resettlement case management housing assistance ESL and cultural orientation referrals and support for unaccompanied minors transitioning into local care."
+    },
+    {
+      "id": 5,
+      "name": "Catholic Charities of the Archdiocese of Galveston-Houston",
+      "category": "Refugee & Immigration Services",
+      "neighborhood": "Midtown",
+      "zip": "77006",
+      "phone": "713-526-4611",
+      "website": "catholiccharities.org",
+      "description": "Refugee resettlement immigration legal services family strengthening and senior services serving more than 85000 people a year across the region."
+    },
+    {
+      "id": 8,
+      "name": "Houston Welcomes Refugees",
+      "category": "Refugee & Immigration Services",
+      "neighborhood": "Citywide",
+      "zip": "",
+      "phone": "",
+      "website": "houstonwelcomesrefugees.com",
+      "description": "Volunteer welcome teams that deliver welcome kits and groceries and connect newly arrived refugees to critical resources in their first months."
+    },
+    {
+      "id": 2,
+      "name": "Refugee Services of Texas - Houston",
+      "category": "Refugee & Immigration Services",
+      "neighborhood": "Southwest Houston",
+      "zip": "77036",
+      "phone": "",
+      "website": "",
+      "description": "Resettlement support and case management for refugees asylees and survivors of trafficking from more than 30 countries of origin. Contact via 211texas.org for current details."
+    },
+    {
+      "id": 6,
+      "name": "The Alliance for Multicultural Community Services",
+      "category": "Refugee & Immigration Services",
+      "neighborhood": "Gulfton",
+      "zip": "77081",
+      "phone": "",
+      "website": "",
+      "description": "Three-decade-old agency helping refugees immigrants and low-income residents with cultural adjustment economic self-sufficiency and mental health support."
+    },
+    {
+      "id": 3,
+      "name": "USCRI Houston",
+      "category": "Refugee & Immigration Services",
+      "neighborhood": "Southwest Houston",
+      "zip": "77036",
+      "phone": "",
+      "website": "refugees.org",
+      "description": "Field office of the U.S. Committee for Refugees and Immigrants providing integration support health navigation and partner referrals for newly arrived families."
+    },
+    {
+      "id": 1,
+      "name": "YMCA International Services",
+      "category": "Refugee & Immigration Services",
+      "neighborhood": "Gulfton",
+      "zip": "77081",
+      "phone": "346-297-2373",
+      "website": "ymcahouston.org",
+      "description": "Case management cultural orientation employment services and immigration legal help for refugees and immigrants in one of Houston's most diverse zip codes."
+    }
+  ],
+  "neighborhood_context": [
+    {
+      "neighborhood": "Gulfton",
+      "primary_zip": "77081",
+      "pct_foreign_born": 59.0,
+      "context": "Residents come from more than 80 countries including Somalia Afghanistan Pakistan Mexico and Central America. Some surrounding minority-majority areas have as many as 45 percent of households struggling to afford basic necessities.",
+      "source": "Gulfton Complete Communities Action Plan; Brookings Institution (BakerRipley feature)"
+    },
+    {
+      "neighborhood": "Alief",
+      "primary_zip": "77072",
+      "pct_foreign_born": null,
+      "context": "Historically called Little Saigon after Vietnamese refugees settled there following the Vietnam War; today home to a broader mix of Asian and Latino immigrant communities.",
+      "source": "H-Town Happens; Welcome to Houston TX"
+    },
+    {
+      "neighborhood": "Spring Branch",
+      "primary_zip": "77055",
+      "pct_foreign_born": null,
+      "context": "Significant Korean-American (Koreatown) and Hispanic immigrant communities living alongside older affordable apartment complexes near newer single-family subdivisions.",
+      "source": "Wikipedia: Spring Branch Houston"
+    },
+    {
+      "neighborhood": "Sharpstown",
+      "primary_zip": "77036",
+      "pct_foreign_born": null,
+      "context": "Adjacent to Gulfton and grouped with it in city planning and BakerRipley service delivery as one of the most densely populated and diverse parts of Houston outside downtown.",
+      "source": "Brookings Institution (BakerRipley feature)"
+    },
+    {
+      "neighborhood": "Houston (citywide)",
+      "primary_zip": "",
+      "pct_foreign_born": 29.0,
+      "context": "Citywide foreign-born share used as the baseline comparison point against individual neighborhoods such as Gulfton.",
+      "source": "Gulfton Complete Communities Action Plan"
+    },
+    {
+      "neighborhood": "Harris County (food insecurity)",
+      "primary_zip": "",
+      "pct_foreign_born": 13.8,
+      "context": "Share of the Harris County population estimated to experience food insecurity at some point during the year.",
+      "source": "Target Hunger"
+    }
+  ]
+}

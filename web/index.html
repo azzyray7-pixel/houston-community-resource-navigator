@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Houston Community Resource Navigator</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <p class="eyebrow">Houston, Texas</p>
+    <h1>Community resource navigator</h1>
+    <p class="standfirst">
+      A directory of real food, health, education and resettlement services for
+      low-income and refugee families, built around the neighborhoods where they are
+      most needed. In <strong>Gulfton</strong>, <strong>59% of residents were born
+      outside the United States</strong>, compared with 29% citywide.
+    </p>
+  </header>
+
+  <section class="spotlight">
+    <h2>Neighborhood spotlight</h2>
+    <div class="spot-grid" id="spotGrid"></div>
+  </section>
+
+  <div class="controls">
+    <input type="text" id="searchInput" placeholder="Search by name or keyword&hellip;">
+    <select id="neighborhoodSelect">
+      <option value="">All neighborhoods</option>
+    </select>
+    <div class="pill-row" id="categoryPills"></div>
+  </div>
+
+  <p class="result-count" id="resultCount"></p>
+  <div class="cards" id="cardGrid"></div>
+  <div class="empty" id="emptyState" style="display:none;">
+    No resources match those filters yet &mdash; try clearing a filter or broadening your search.
+  </div>
+
+  <footer>
+    Portfolio / academic project, not an official referral service &mdash; confirm hours,
+    eligibility and current contact details directly with each organization, or call
+    <strong>211</strong> (Texas Health and Human Services) before relying on this list.
+    Data compiled from public sources; see <code>docs/findings.md</code> for sources and methodology.
+    Built by Raymond Ochonogor.
+  </footer>
+
+</div>
+
+<script src="data.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

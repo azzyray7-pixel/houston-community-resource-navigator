@@ -105,13 +105,19 @@ function renderCards() {
     const tagClass = CATEGORY_TAGS[r.category] || "tag-multi";
     const zipText = r.zip ? ` &middot; ${r.zip}` : "";
     const links = [];
-    if (r.website) links.push(`<a href="https://${r.website}" target="_blank" rel="noopener">${r.website}</a>`);
-    if (r.phone) links.push(`<a href="tel:${r.phone}">${r.phone}</a>`);
+    if (r.phone) links.push(`<a href="tel:${r.phone}">📞 ${r.phone}</a>`);
+    if (r.address) {
+      links.push(`<a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(r.address)}" target="_blank" rel="noopener">📍 Get directions</a>`);
+    }
+    if (r.website) links.push(`<a href="https://${r.website}" target="_blank" rel="noopener">🌐 ${r.website}</a>`);
+    const noContact = !r.phone && !r.website;
     card.innerHTML = `
       <span class="tag ${tagClass}">${r.category}</span>
       <h3>${r.name}</h3>
       <p class="meta">${r.neighborhood}${zipText}</p>
+      ${r.address ? `<p class="address">${r.address}</p>` : ""}
       <p class="desc">${r.description}</p>
+      ${noContact ? `<p class="no-contact">No phone or website on file &mdash; call 211 to confirm current contact info.</p>` : ""}
       ${links.length ? `<div class="links">${links.join("")}</div>` : ""}
     `;
     grid.appendChild(card);

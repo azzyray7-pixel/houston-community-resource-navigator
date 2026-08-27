@@ -30,6 +30,7 @@ def build_database():
             neighborhood TEXT NOT NULL,
             zip TEXT,
             phone TEXT,
+            address TEXT,
             website TEXT,
             description TEXT
         );
@@ -47,12 +48,12 @@ def build_database():
         reader = csv.DictReader(f)
         rows = [
             (r["id"], r["name"], r["category"], r["neighborhood"], r["zip"],
-             r["phone"], r["website"], r["description"])
+             r["phone"], r["address"], r["website"], r["description"])
             for r in reader
         ]
     cur.executemany(
-        "INSERT INTO resources (id, name, category, neighborhood, zip, phone, website, description) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?, ?)", rows
+        "INSERT INTO resources (id, name, category, neighborhood, zip, phone, address, website, description) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)", rows
     )
 
     with open(CONTEXT_CSV, newline="", encoding="utf-8") as f:

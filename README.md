@@ -9,7 +9,9 @@ Built as a portfolio project connecting hands-on community program experience
 (Missions Director, Sharpstown Baptist Church) with MIS coursework in SQL,
 Python, and data analysis.
 
-**[Open the live resource locator](web/index.html)** &middot; **[Read the findings writeup](docs/findings.md)**
+**[Open the live resource locator](https://azzyray7-pixel.github.io/houston-community-resource-navigator/web/index.html)** &middot; **[Read the findings writeup](docs/findings.md)**
+
+*(Live link works once GitHub Pages is enabled for this repo — Settings &rarr; Pages &rarr; Deploy from a branch &rarr; `main` / root. Until then, clone the repo and open `web/index.html` locally.)*
 
 ## Why this exists
 

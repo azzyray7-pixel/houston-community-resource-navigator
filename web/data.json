@@ -9,7 +9,8 @@
       "phone": "713-929-2330",
       "address": "6001 Gulf Freeway, Building E, Houston, TX 77023",
       "website": "aama.org",
-      "description": "Free ESL adult basic education GED computer literacy and workforce certification classes plus free child care for qualifying students."
+      "description": "Free ESL adult basic education GED computer literacy and workforce certification classes plus free child care for qualifying students.",
+      "description_es": "Clases gratuitas de ingl\u00e9s, educaci\u00f3n b\u00e1sica para adultos, GED, alfabetizaci\u00f3n inform\u00e1tica y certificaci\u00f3n laboral, m\u00e1s cuidado infantil gratuito para estudiantes elegibles."
     },
     {
       "id": 10,
@@ -20,7 +21,8 @@
       "phone": "713-869-1684",
       "address": "607 Northwood St, Houston, TX 77009",
       "website": "avancehouston.org",
-      "description": "Parent and early-childhood education programs including ESL Head Start and General Equivalency Diploma preparation for low-income families."
+      "description": "Parent and early-childhood education programs including ESL Head Start and General Equivalency Diploma preparation for low-income families.",
+      "description_es": "Programas de educaci\u00f3n para padres y primera infancia, incluyendo ingl\u00e9s (ESL), Head Start y preparaci\u00f3n para el diploma de equivalencia (GED), para familias de bajos ingresos."
     },
     {
       "id": 8,
@@ -31,7 +33,8 @@
       "phone": "713-273-3719",
       "address": "",
       "website": "economicinitiatives.bakerripley.org",
-      "description": "Free ESL GED and computer literacy classes for adult learners at multiple campuses across Harris County with no minimum education requirement."
+      "description": "Free ESL GED and computer literacy classes for adult learners at multiple campuses across Harris County with no minimum education requirement.",
+      "description_es": "Clases gratuitas de ingl\u00e9s (ESL), preparaci\u00f3n para el GED y alfabetizaci\u00f3n inform\u00e1tica para adultos en varios campus del condado de Harris, sin requisito m\u00ednimo de escolaridad."
     },
     {
       "id": 12,
@@ -42,7 +45,8 @@
       "phone": "713-692-6216",
       "address": "6515 Irvington Blvd, Houston, TX 77022",
       "website": "hcde-texas.org",
-      "description": "Harris County Department of Education program offering free beginning through advanced ESL classes online and in person across the county."
+      "description": "Harris County Department of Education program offering free beginning through advanced ESL classes online and in person across the county.",
+      "description_es": "Programa del Departamento de Educaci\u00f3n del Condado de Harris que ofrece clases gratuitas de ingl\u00e9s, desde nivel principiante hasta avanzado, en l\u00ednea y en persona en todo el condado."
     },
     {
       "id": 13,
@@ -53,7 +57,8 @@
       "phone": "832-393-1313",
       "address": "Central Library, 500 McKinney St, Houston, TX 77002",
       "website": "houstonlibrary.org",
-      "description": "Free English and language-learning classes plus cultural-orientation programming open to new immigrants at branches across the city."
+      "description": "Free English and language-learning classes plus cultural-orientation programming open to new immigrants at branches across the city.",
+      "description_es": "Clases gratuitas de ingl\u00e9s y aprendizaje de idiomas, adem\u00e1s de programaci\u00f3n de orientaci\u00f3n cultural, abiertas a nuevos inmigrantes en sucursales de toda la ciudad."
     },
     {
       "id": 9,
@@ -64,7 +69,8 @@
       "phone": "713-468-4516",
       "address": "1625 Blalock Rd, Houston, TX 77080",
       "website": "mamhouston.org",
-      "description": "Free English and reading classes for adults running since 1964 supported by volunteer tutors plus citizenship and employment-readiness classes."
+      "description": "Free English and reading classes for adults running since 1964 supported by volunteer tutors plus citizenship and employment-readiness classes.",
+      "description_es": "Clases gratuitas de ingl\u00e9s y lectura para adultos, en funcionamiento desde 1964, con tutores voluntarios, adem\u00e1s de clases de ciudadan\u00eda y preparaci\u00f3n laboral."
     },
     {
       "id": 17,
@@ -75,7 +81,8 @@
       "phone": "713-223-3700",
       "address": "535 Portwall St, Houston, TX 77029",
       "website": "houstonfoodbank.org",
-      "description": "Largest hunger-relief organization in southeast Texas coordinating pantries meal programs and produce distributions across 18 counties."
+      "description": "Largest hunger-relief organization in southeast Texas coordinating pantries meal programs and produce distributions across 18 counties.",
+      "description_es": "El mayor organismo de ayuda contra el hambre del sureste de Texas; coordina despensas, programas de comidas y distribuci\u00f3n de productos frescos en 18 condados."
     },
     {
       "id": 19,
@@ -86,7 +93,8 @@
       "phone": "713-533-4900",
       "address": "3303 Main St, Houston, TX 77002",
       "website": "imgh.org",
-      "description": "Emergency food assistance and a Meals on Wheels senior meals program alongside refugee housing English classes and job placement support."
+      "description": "Emergency food assistance and a Meals on Wheels senior meals program alongside refugee housing English classes and job placement support.",
+      "description_es": "Asistencia alimentaria de emergencia y el programa de comidas para personas mayores Meals on Wheels, adem\u00e1s de vivienda para refugiados, clases de ingl\u00e9s y apoyo para conseguir empleo."
     },
     {
       "id": 20,
@@ -97,7 +105,8 @@
       "phone": "713-695-5437",
       "address": "8790 Hammerly Blvd, Houston, TX 77080",
       "website": "kidsmealsinc.org",
-      "description": "Delivers free healthy meals on weekdays to the homes of children under six and connects families to a broader support network."
+      "description": "Delivers free healthy meals on weekdays to the homes of children under six and connects families to a broader support network.",
+      "description_es": "Entrega comidas gratuitas y saludables entre semana a los hogares de ni\u00f1os menores de seis a\u00f1os, y conecta a las familias con una red de apoyo m\u00e1s amplia."
     },
     {
       "id": 18,
@@ -108,7 +117,8 @@
       "phone": "713-226-4953",
       "address": "2814 Quitman St, Houston, TX 77026",
       "website": "targethunger.org",
-      "description": "Food assistance and navigation programs that provided food to more than 25000 individuals and 9200 households across Houston in 2025."
+      "description": "Food assistance and navigation programs that provided food to more than 25000 individuals and 9200 households across Houston in 2025.",
+      "description_es": "Programas de asistencia alimentaria y orientaci\u00f3n que en 2025 brindaron alimentos a m\u00e1s de 25,000 personas y 9,200 hogares en Houston."
     },
     {
       "id": 15,
@@ -119,7 +129,8 @@
       "phone": "713-660-1880",
       "address": "7037 Capitol St, Ste N100, Houston, TX 77011",
       "website": "elcentrodecorazon.org",
-      "description": "Federally qualified health center serving low-income and predominantly Hispanic families in Houston's East End with medical and dental care."
+      "description": "Federally qualified health center serving low-income and predominantly Hispanic families in Houston's East End with medical and dental care.",
+      "description_es": "Centro de salud federalmente calificado que atiende a familias de bajos ingresos, mayormente hispanas, en el East End de Houston, con atenci\u00f3n m\u00e9dica y dental."
     },
     {
       "id": 14,
@@ -130,7 +141,8 @@
       "phone": "713-773-0803",
       "address": "7001 Corporate Dr, #120, Houston, TX 77036",
       "website": "hopechc.org",
-      "description": "Multicultural community health center providing primary medical dental and behavioral health care for low-income and immigrant families."
+      "description": "Multicultural community health center providing primary medical dental and behavioral health care for low-income and immigrant families.",
+      "description_es": "Centro de salud comunitario multicultural que brinda atenci\u00f3n m\u00e9dica primaria, dental y de salud mental para familias de bajos ingresos e inmigrantes."
     },
     {
       "id": 16,
@@ -141,7 +153,8 @@
       "phone": "832-548-5000",
       "address": "",
       "website": "legacycommunityhealth.org",
-      "description": "Federally qualified health network with clinics across Houston offering sliding-scale primary care for low-income and uninsured residents."
+      "description": "Federally qualified health network with clinics across Houston offering sliding-scale primary care for low-income and uninsured residents.",
+      "description_es": "Red de salud federalmente calificada con cl\u00ednicas en toda el \u00e1rea de Houston que ofrece atenci\u00f3n primaria con tarifas ajustadas seg\u00fan ingresos para personas de bajos ingresos y sin seguro."
     },
     {
       "id": 7,
@@ -152,7 +165,8 @@
       "phone": "713-273-3700",
       "address": "6500 Rookin St, Houston, TX 77074",
       "website": "bakerripley.org",
-      "description": "Five-building neighborhood campus offering early childhood education youth programs immigration services and a community garden for residents from 80-plus countries."
+      "description": "Five-building neighborhood campus offering early childhood education youth programs immigration services and a community garden for residents from 80-plus countries.",
+      "description_es": "Campus comunitario de cinco edificios que ofrece educaci\u00f3n infantil temprana, programas juveniles, servicios de inmigraci\u00f3n y un jard\u00edn comunitario para residentes de m\u00e1s de 80 pa\u00edses."
     },
     {
       "id": 5,
@@ -163,7 +177,8 @@
       "phone": "281-530-6888",
       "address": "11360 Bellaire Blvd, Ste 910, Houston, TX 77072",
       "website": "bpsos.org",
-      "description": "Boat People S.O.S. affiliate supporting Vietnamese and other Southeast Asian immigrant and refugee families with case management and civic engagement."
+      "description": "Boat People S.O.S. affiliate supporting Vietnamese and other Southeast Asian immigrant and refugee families with case management and civic engagement.",
+      "description_es": "Afiliado de Boat People S.O.S. que apoya a familias inmigrantes y refugiadas vietnamitas y de otros pa\u00edses del sudeste asi\u00e1tico con gesti\u00f3n de casos y participaci\u00f3n c\u00edvica."
     },
     {
       "id": 3,
@@ -174,7 +189,8 @@
       "phone": "346-200-9951",
       "address": "6671 Southwest Fwy, Ste 760, Houston, TX 77074",
       "website": "cwshouston.org",
-      "description": "Resettlement case management housing assistance ESL and cultural orientation referrals and support for unaccompanied minors transitioning into local care."
+      "description": "Resettlement case management housing assistance ESL and cultural orientation referrals and support for unaccompanied minors transitioning into local care.",
+      "description_es": "Gesti\u00f3n de casos de reasentamiento, ayuda con vivienda, clases de ingl\u00e9s (ESL), orientaci\u00f3n cultural y apoyo a menores no acompa\u00f1ados en su transici\u00f3n a cuidado local."
     },
     {
       "id": 4,
@@ -185,7 +201,8 @@
       "phone": "713-526-4611",
       "address": "2900 Louisiana St, Houston, TX 77006",
       "website": "catholiccharities.org",
-      "description": "Refugee resettlement immigration legal services family strengthening and senior services serving more than 85000 people a year across the region."
+      "description": "Refugee resettlement immigration legal services family strengthening and senior services serving more than 85000 people a year across the region.",
+      "description_es": "Reasentamiento de refugiados, servicios legales de inmigraci\u00f3n, fortalecimiento familiar y servicios para personas mayores; atiende a m\u00e1s de 85,000 personas al a\u00f1o en la regi\u00f3n."
     },
     {
       "id": 6,
@@ -196,7 +213,8 @@
       "phone": "979-255-5188",
       "address": "",
       "website": "houstonwelcomesrefugees.com",
-      "description": "Volunteer welcome teams that deliver welcome kits and groceries and connect newly arrived refugees to critical resources in their first months."
+      "description": "Volunteer welcome teams that deliver welcome kits and groceries and connect newly arrived refugees to critical resources in their first months.",
+      "description_es": "Equipos voluntarios de bienvenida que entregan kits de bienvenida y despensa, y conectan a refugiados reci\u00e9n llegados con recursos esenciales durante sus primeros meses."
     },
     {
       "id": 2,
@@ -207,7 +225,8 @@
       "phone": "",
       "address": "11111 Richmond Ave, Suite 350, Houston, TX 77082",
       "website": "refugees.org",
-      "description": "Field office of the U.S. Committee for Refugees and Immigrants providing integration support health navigation and partner referrals for newly arrived families."
+      "description": "Field office of the U.S. Committee for Refugees and Immigrants providing integration support health navigation and partner referrals for newly arrived families.",
+      "description_es": "Oficina local del Comit\u00e9 de EE. UU. para Refugiados e Inmigrantes que brinda apoyo de integraci\u00f3n, orientaci\u00f3n de salud y referencias a organizaciones aliadas para familias reci\u00e9n llegadas."
     },
     {
       "id": 1,
@@ -218,7 +237,8 @@
       "phone": "346-297-2373",
       "address": "6300 Westpark Dr, Ste 600, Houston, TX 77057",
       "website": "ymcahouston.org",
-      "description": "Case management cultural orientation employment services and immigration legal help for refugees and immigrants in one of Houston's most diverse zip codes."
+      "description": "Case management cultural orientation employment services and immigration legal help for refugees and immigrants in one of Houston's most diverse zip codes.",
+      "description_es": "Gesti\u00f3n de casos, orientaci\u00f3n cultural, servicios de empleo y ayuda legal de inmigraci\u00f3n para refugiados e inmigrantes en uno de los c\u00f3digos postales m\u00e1s diversos de Houston."
     }
   ],
   "neighborhood_context": [
@@ -227,42 +247,48 @@
       "primary_zip": "77081",
       "pct_foreign_born": 59.0,
       "context": "Residents come from more than 80 countries including Somalia Afghanistan Pakistan Mexico and Central America. Some surrounding minority-majority areas have as many as 45 percent of households struggling to afford basic necessities.",
-      "source": "Gulfton Complete Communities Action Plan; Brookings Institution (BakerRipley feature)"
+      "source": "Gulfton Complete Communities Action Plan; Brookings Institution (BakerRipley feature)",
+      "context_es": "Los residentes provienen de m\u00e1s de 80 pa\u00edses, incluyendo Somalia, Afganist\u00e1n, Pakist\u00e1n, M\u00e9xico y Centroam\u00e9rica. En algunas \u00e1reas cercanas de mayor\u00eda minoritaria, hasta el 45 por ciento de los hogares tiene dificultades para cubrir sus necesidades b\u00e1sicas."
     },
     {
       "neighborhood": "Alief",
       "primary_zip": "77072",
       "pct_foreign_born": null,
       "context": "Historically called Little Saigon after Vietnamese refugees settled there following the Vietnam War; today home to a broader mix of Asian and Latino immigrant communities.",
-      "source": "H-Town Happens; Welcome to Houston TX"
+      "source": "H-Town Happens; Welcome to Houston TX",
+      "context_es": "Hist\u00f3ricamente conocido como 'Little Saigon' por los refugiados vietnamitas que se establecieron all\u00ed tras la guerra de Vietnam; hoy es hogar de una mezcla m\u00e1s amplia de comunidades inmigrantes asi\u00e1ticas y latinas."
     },
     {
       "neighborhood": "Spring Branch",
       "primary_zip": "77055",
       "pct_foreign_born": null,
       "context": "Significant Korean-American (Koreatown) and Hispanic immigrant communities living alongside older affordable apartment complexes near newer single-family subdivisions.",
-      "source": "Wikipedia: Spring Branch Houston"
+      "source": "Wikipedia: Spring Branch Houston",
+      "context_es": "Importantes comunidades inmigrantes coreano-americanas (Koreatown) e hispanas que conviven junto a complejos de apartamentos asequibles m\u00e1s antiguos, cerca de nuevos desarrollos de casas unifamiliares."
     },
     {
       "neighborhood": "Sharpstown",
       "primary_zip": "77036",
       "pct_foreign_born": null,
       "context": "Adjacent to Gulfton and grouped with it in city planning and BakerRipley service delivery as one of the most densely populated and diverse parts of Houston outside downtown.",
-      "source": "Brookings Institution (BakerRipley feature)"
+      "source": "Brookings Institution (BakerRipley feature)",
+      "context_es": "Colinda con Gulfton y se agrupa junto a este en la planificaci\u00f3n urbana y en los servicios de BakerRipley, como una de las zonas m\u00e1s densamente pobladas y diversas de Houston fuera del centro."
     },
     {
       "neighborhood": "Houston (citywide)",
       "primary_zip": "",
       "pct_foreign_born": 29.0,
       "context": "Citywide foreign-born share used as the baseline comparison point against individual neighborhoods such as Gulfton.",
-      "source": "Gulfton Complete Communities Action Plan"
+      "source": "Gulfton Complete Communities Action Plan",
+      "context_es": "Porcentaje de poblaci\u00f3n nacida en el extranjero a nivel de toda la ciudad, usado como punto de comparaci\u00f3n con vecindarios individuales como Gulfton."
     },
     {
       "neighborhood": "Harris County (food insecurity)",
       "primary_zip": "",
       "pct_foreign_born": 13.8,
       "context": "Share of the Harris County population estimated to experience food insecurity at some point during the year.",
-      "source": "Target Hunger"
+      "source": "Target Hunger",
+      "context_es": "Porcentaje de la poblaci\u00f3n del condado de Harris que se estima experimenta inseguridad alimentaria en alg\u00fan momento del a\u00f1o."
     }
   ]
 }

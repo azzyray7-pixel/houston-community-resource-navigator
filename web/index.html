@@ -9,10 +9,15 @@
 <body>
 <div class="wrap">
 
+  <div class="lang-switch" id="langSwitch" role="group" aria-label="Language / Idioma">
+    <button type="button" class="lang-btn" data-lang="en">English</button>
+    <button type="button" class="lang-btn" data-lang="es">Español</button>
+  </div>
+
   <header class="masthead">
-    <p class="eyebrow">Houston, Texas</p>
-    <h1>Community resource navigator</h1>
-    <p class="standfirst">
+    <p class="eyebrow" id="txtEyebrow">Houston, Texas</p>
+    <h1 id="txtTitle">Community resource navigator</h1>
+    <p class="standfirst" id="txtStandfirst">
       A directory of real food, health, education and resettlement services for
       low-income and refugee families, built around the neighborhoods where they are
       most needed. In <strong>Gulfton</strong>, <strong>59% of residents were born
@@ -21,14 +26,14 @@
   </header>
 
   <section class="spotlight">
-    <h2>Neighborhood spotlight</h2>
+    <h2 id="txtSpotlightHeading">Neighborhood spotlight</h2>
     <div class="spot-grid" id="spotGrid"></div>
   </section>
 
   <div class="controls">
     <input type="text" id="searchInput" placeholder="Search by name or keyword&hellip;">
     <select id="neighborhoodSelect">
-      <option value="">All neighborhoods</option>
+      <option value="" id="txtAllNeighborhoods">All neighborhoods</option>
     </select>
     <div class="pill-row" id="categoryPills"></div>
   </div>
@@ -39,7 +44,7 @@
     No resources match those filters yet &mdash; try clearing a filter or broadening your search.
   </div>
 
-  <footer>
+  <footer id="txtFooter">
     Portfolio / academic project, not an official referral service &mdash; confirm hours,
     eligibility and current contact details directly with each organization, or call
     <strong>211</strong> (Texas Health and Human Services) before relying on this list.

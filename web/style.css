@@ -30,6 +30,31 @@ body {
   padding: 2.5rem 1.5rem 4rem;
 }
 
+.lang-switch {
+  display: flex;
+  justify-content: flex-end;
+  gap: 6px;
+  margin-bottom: 1rem;
+}
+
+.lang-btn {
+  font: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--paper-raised);
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.lang-btn.active {
+  background: var(--teal-deep);
+  color: #fff;
+  border-color: var(--teal-deep);
+}
+
 header.masthead {
   border-bottom: 2px solid var(--ink);
   padding-bottom: 1.5rem;

@@ -32,7 +32,8 @@ def build_database():
             phone TEXT,
             address TEXT,
             website TEXT,
-            description TEXT
+            description TEXT,
+            description_es TEXT
         );
 
         CREATE TABLE neighborhood_context (
@@ -40,7 +41,8 @@ def build_database():
             primary_zip TEXT,
             pct_foreign_born REAL,
             context TEXT,
-            source TEXT
+            source TEXT,
+            context_es TEXT
         );
     """)
 
@@ -48,24 +50,24 @@ def build_database():
         reader = csv.DictReader(f)
         rows = [
             (r["id"], r["name"], r["category"], r["neighborhood"], r["zip"],
-             r["phone"], r["address"], r["website"], r["description"])
+             r["phone"], r["address"], r["website"], r["description"], r["description_es"])
             for r in reader
         ]
     cur.executemany(
-        "INSERT INTO resources (id, name, category, neighborhood, zip, phone, address, website, description) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)", rows
+        "INSERT INTO resources (id, name, category, neighborhood, zip, phone, address, website, description, description_es) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", rows
     )
 
     with open(CONTEXT_CSV, newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         rows = [
             (r["neighborhood"], r["primary_zip"], r["pct_foreign_born"] or None,
-             r["context"], r["source"])
+             r["context"], r["source"], r["context_es"])
             for r in reader
         ]
     cur.executemany(
-        "INSERT INTO neighborhood_context (neighborhood, primary_zip, pct_foreign_born, context, source) "
-        "VALUES (?, ?, ?, ?, ?)", rows
+        "INSERT INTO neighborhood_context (neighborhood, primary_zip, pct_foreign_born, context, source, context_es) "
+        "VALUES (?, ?, ?, ?, ?, ?)", rows
     )
 
     conn.commit()

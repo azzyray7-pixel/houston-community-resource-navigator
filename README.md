@@ -3,7 +3,10 @@
 A small data pipeline and web app that maps food, health, education, and
 refugee/immigration services against the Houston neighborhoods where
 low-income and refugee families are concentrated, and flags where local
-coverage is thin.
+coverage is thin. The web app is available in English and Spanish — every
+organization description, neighborhood profile, and piece of UI text has a
+verified Spanish translation, not just a machine-translated pass, since most
+of the focus neighborhoods are majority non-English-speaking.
 
 Built as a portfolio project connecting hands-on community program experience
 (Missions Director, Sharpstown Baptist Church) with MIS coursework in SQL,
@@ -32,7 +35,7 @@ service coverage?*
 | `scripts/build_database.py` | Loads the CSVs into a SQLite database |
 | `scripts/analyze_gaps.py` | Runs SQL queries to count resources by neighborhood/category and flag coverage gaps; exports data for the web app |
 | `scripts/export_dashboard.py` | Builds an Excel dashboard with live `COUNTIFS` formulas, conditional-formatted gap flags, and a chart |
-| `web/` | A filterable, searchable resource locator (vanilla HTML/CSS/JS, no build step) |
+| `web/` | A filterable, searchable resource locator in English and Spanish (vanilla HTML/CSS/JS, no build step) |
 | `docs/findings.md` | A short needs-assessment style writeup: methodology, findings, limitations, sources |
 | `dashboard/` | The generated Excel workbook |
 | `database/` | The generated SQLite database |

@@ -1,6 +1,104 @@
 {
   "resources": [
     {
+      "id": 26,
+      "name": "Casa Juan Diego",
+      "category": "Clothing & Household Goods",
+      "neighborhood": "Houston Heights",
+      "zip": "77007",
+      "phone": "713-869-7376",
+      "address": "4818 Rose St, Houston, TX 77007",
+      "website": "cjd.org",
+      "description": "Catholic Worker house of hospitality offering weekly free food and clothing distribution plus household-goods assistance specifically for immigrant and refugee families.",
+      "description_es": "Casa de hospitalidad cat\u00f3lica (Catholic Worker) que ofrece distribuci\u00f3n semanal gratuita de alimentos y ropa, adem\u00e1s de ayuda con art\u00edculos del hogar, espec\u00edficamente para familias inmigrantes y refugiadas.",
+      "description_fa": "\u062e\u0627\u0646\u0647\u200c\u06cc \u0645\u0647\u0645\u0627\u0646\u200c\u0646\u0648\u0627\u0632\u06cc \u06a9\u0627\u062a\u0648\u0644\u06cc\u06a9 (Catholic Worker) \u06a9\u0647 \u0647\u0631 \u0647\u0641\u062a\u0647 \u063a\u0630\u0627 \u0648 \u0644\u0628\u0627\u0633 \u0631\u0627\u06cc\u06af\u0627\u0646 \u062a\u0648\u0632\u06cc\u0639 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0648 \u0628\u0647\u200c\u0637\u0648\u0631 \u0648\u06cc\u0698\u0647 \u0628\u0647 \u062e\u0627\u0646\u0648\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0645\u0647\u0627\u062c\u0631 \u0648 \u067e\u0646\u0627\u0647\u0646\u062f\u0647 \u062f\u0631 \u062a\u0647\u06cc\u0647 \u0627\u0642\u0644\u0627\u0645 \u062e\u0627\u0646\u06af\u06cc \u06a9\u0645\u06a9 \u0645\u06cc\u200c\u06a9\u0646\u062f.",
+      "description_vi": "Nh\u00e0 ti\u1ebfp \u0111\u00f3n C\u00f4ng gi\u00e1o (Catholic Worker) cung c\u1ea5p th\u1ef1c ph\u1ea9m v\u00e0 qu\u1ea7n \u00e1o mi\u1ec5n ph\u00ed h\u00e0ng tu\u1ea7n, c\u00f9ng h\u1ed7 tr\u1ee3 v\u1eadt d\u1ee5ng gia \u0111\u00ecnh, d\u00e0nh ri\u00eang cho c\u00e1c gia \u0111\u00ecnh nh\u1eadp c\u01b0 v\u00e0 t\u1ecb n\u1ea1n."
+    },
+    {
+      "id": 23,
+      "name": "Christian Community Service Center - Emergency Services Central",
+      "category": "Clothing & Household Goods",
+      "neighborhood": "Greenway",
+      "zip": "77027",
+      "phone": "713-871-9741",
+      "address": "3434 Branard St, Houston, TX 77027",
+      "website": "ccschouston.org",
+      "description": "This Emergency Services Central location provides gently used clothing diapers hygiene kits and a five-day food package after a walk-in interview; CCSC's Southwest branch offers food and hygiene only not clothing.",
+      "description_es": "La sede Emergency Services Central ofrece ropa usada en buen estado, pa\u00f1ales, kits de higiene y un paquete de alimentos para cinco d\u00edas tras una entrevista sin cita previa; la sucursal Southwest de CCSC solo ofrece alimentos e higiene, no ropa.",
+      "description_fa": "\u0634\u0639\u0628\u0647\u200c\u06cc Emergency Services Central \u0644\u0628\u0627\u0633\u200c\u0647\u0627\u06cc \u062f\u0633\u062a\u200c\u062f\u0648\u0645 \u0633\u0627\u0644\u0645\u060c \u067e\u0648\u0634\u06a9\u060c \u06a9\u06cc\u062a\u200c\u0647\u0627\u06cc \u0628\u0647\u062f\u0627\u0634\u062a\u06cc \u0648 \u06cc\u06a9 \u0628\u0633\u062a\u0647 \u063a\u0630\u0627\u06cc \u067e\u0646\u062c\u200c\u0631\u0648\u0632\u0647 \u067e\u0633 \u0627\u0632 \u0645\u0635\u0627\u062d\u0628\u0647 \u0628\u062f\u0648\u0646 \u0648\u0642\u062a \u0642\u0628\u0644\u06cc \u0627\u0631\u0627\u0626\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f\u061b \u0634\u0639\u0628\u0647\u200c\u06cc Southwest \u0627\u06cc\u0646 \u0633\u0627\u0632\u0645\u0627\u0646 \u0641\u0642\u0637 \u063a\u0630\u0627 \u0648 \u0627\u0642\u0644\u0627\u0645 \u0628\u0647\u062f\u0627\u0634\u062a\u06cc \u062f\u0627\u0631\u062f\u060c \u0646\u0647 \u0644\u0628\u0627\u0633.",
+      "description_vi": "Chi nh\u00e1nh Emergency Services Central cung c\u1ea5p qu\u1ea7n \u00e1o c\u0169 c\u00f2n t\u1ed1t, t\u00e3, b\u1ed9 d\u1ee5ng c\u1ee5 v\u1ec7 sinh v\u00e0 g\u00f3i th\u1ef1c ph\u1ea9m 5 ng\u00e0y sau khi ph\u1ecfng v\u1ea5n kh\u00f4ng c\u1ea7n h\u1eb9n tr\u01b0\u1edbc; chi nh\u00e1nh Southwest c\u1ee7a CCSC ch\u1ec9 c\u00f3 th\u1ef1c ph\u1ea9m v\u00e0 v\u1eadt d\u1ee5ng v\u1ec7 sinh, kh\u00f4ng c\u00f3 qu\u1ea7n \u00e1o."
+    },
+    {
+      "id": 24,
+      "name": "Emergency Aid Coalition - Clothing Center",
+      "category": "Clothing & Household Goods",
+      "neighborhood": "Third Ward",
+      "zip": "77004",
+      "phone": "713-343-3061",
+      "address": "5401 Fannin St, Houston, TX 77004",
+      "website": "eachouston.org",
+      "description": "Free clothing up to two outfits per person shoes when available toiletries and underwear for men women and children with visits by appointment only.",
+      "description_es": "Ropa gratuita (hasta dos mudas por persona), zapatos cuando hay disponibilidad, art\u00edculos de higiene y ropa interior para hombres, mujeres y ni\u00f1os; las visitas son solo con cita previa.",
+      "description_fa": "\u0644\u0628\u0627\u0633 \u0631\u0627\u06cc\u06af\u0627\u0646 (\u062a\u0627 \u062f\u0648 \u062f\u0633\u062a \u0644\u0628\u0627\u0633 \u0628\u0631\u0627\u06cc \u0647\u0631 \u0646\u0641\u0631)\u060c \u06a9\u0641\u0634 \u062f\u0631 \u0635\u0648\u0631\u062a \u0645\u0648\u062c\u0648\u062f\u06cc\u060c \u0644\u0648\u0627\u0632\u0645 \u0628\u0647\u062f\u0627\u0634\u062a\u06cc \u0648 \u0644\u0628\u0627\u0633 \u0632\u06cc\u0631 \u0628\u0631\u0627\u06cc \u0645\u0631\u062f\u0627\u0646\u060c \u0632\u0646\u0627\u0646 \u0648 \u06a9\u0648\u062f\u06a9\u0627\u0646\u061b \u0628\u0627\u0632\u062f\u06cc\u062f \u0641\u0642\u0637 \u0628\u0627 \u0648\u0642\u062a \u0642\u0628\u0644\u06cc.",
+      "description_vi": "Qu\u1ea7n \u00e1o mi\u1ec5n ph\u00ed (t\u1ed1i \u0111a hai b\u1ed9 m\u1ed7i ng\u01b0\u1eddi), gi\u00e0y khi c\u00f3 s\u1eb5n, \u0111\u1ed3 d\u00f9ng v\u1ec7 sinh v\u00e0 \u0111\u1ed3 l\u00f3t cho nam, n\u1eef v\u00e0 tr\u1ebb em; ch\u1ec9 ti\u1ebfp nh\u1eadn theo l\u1ecbch h\u1eb9n."
+    },
+    {
+      "id": 22,
+      "name": "Faith Center Spring Branch",
+      "category": "Clothing & Household Goods",
+      "neighborhood": "Spring Branch",
+      "zip": "77055",
+      "phone": "713-554-8820",
+      "address": "8244 Long Point Rd, Houston, TX 77055",
+      "website": "houstonsfirst.org",
+      "description": "Free food pantry and clothes closet providing groceries clothing and hygiene essentials to Spring Branch families with visits by appointment.",
+      "description_es": "Despensa de alimentos gratuita y ropero comunitario que ofrece v\u00edveres, ropa y art\u00edculos de higiene a familias de Spring Branch; las visitas son con cita previa.",
+      "description_fa": "\u0627\u0646\u0628\u0627\u0631 \u063a\u0630\u0627\u06cc \u0631\u0627\u06cc\u06af\u0627\u0646 \u0648 \u0627\u0646\u0628\u0627\u0631 \u067e\u0648\u0634\u0627\u06a9 \u06a9\u0647 \u0645\u0648\u0627\u062f \u063a\u0630\u0627\u06cc\u06cc\u060c \u0644\u0628\u0627\u0633 \u0648 \u0627\u0642\u0644\u0627\u0645 \u0628\u0647\u062f\u0627\u0634\u062a\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc \u062e\u0627\u0646\u0648\u0627\u062f\u0647\u200c\u0647\u0627\u06cc Spring Branch \u0641\u0631\u0627\u0647\u0645 \u0645\u06cc\u200c\u06a9\u0646\u062f\u061b \u0628\u0627\u0632\u062f\u06cc\u062f \u0641\u0642\u0637 \u0628\u0627 \u0648\u0642\u062a \u0642\u0628\u0644\u06cc.",
+      "description_vi": "Kho th\u1ef1c ph\u1ea9m mi\u1ec5n ph\u00ed v\u00e0 t\u1ee7 qu\u1ea7n \u00e1o cung c\u1ea5p th\u1ef1c ph\u1ea9m, qu\u1ea7n \u00e1o v\u00e0 v\u1eadt d\u1ee5ng v\u1ec7 sinh cho c\u00e1c gia \u0111\u00ecnh \u1edf Spring Branch; c\u1ea7n \u0111\u1eb7t l\u1ecbch h\u1eb9n tr\u01b0\u1edbc."
+    },
+    {
+      "id": 25,
+      "name": "Houston Furniture Bank",
+      "category": "Clothing & Household Goods",
+      "neighborhood": "South Houston",
+      "zip": "77075",
+      "phone": "713-842-9777",
+      "address": "8220 Mosley Rd, Houston, TX 77075",
+      "website": "houstonfurniturebank.org",
+      "description": "Provides free furniture such as beds tables seating and mattresses to families in need but only through referral from a partner social-service agency not direct walk-in.",
+      "description_es": "Proporciona muebles gratuitos, como camas, mesas, sillas y colchones, a familias necesitadas, pero solo mediante referencia de una agencia de servicios sociales asociada, no por visita directa.",
+      "description_fa": "\u0645\u0628\u0644\u0645\u0627\u0646 \u0631\u0627\u06cc\u06af\u0627\u0646 \u0645\u0627\u0646\u0646\u062f \u062a\u062e\u062a\u060c \u0645\u06cc\u0632\u060c \u0635\u0646\u062f\u0644\u06cc \u0648 \u062a\u0634\u06a9 \u0631\u0627 \u0628\u0631\u0627\u06cc \u062e\u0627\u0646\u0648\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0646\u06cc\u0627\u0632\u0645\u0646\u062f \u0641\u0631\u0627\u0647\u0645 \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0627\u0645\u0627 \u0641\u0642\u0637 \u0627\u0632 \u0637\u0631\u06cc\u0642 \u0645\u0639\u0631\u0641\u06cc \u06cc\u06a9 \u0633\u0627\u0632\u0645\u0627\u0646 \u062e\u062f\u0645\u0627\u062a \u0627\u062c\u062a\u0645\u0627\u0639\u06cc \u0647\u0645\u06a9\u0627\u0631\u060c \u0646\u0647 \u0628\u0647\u200c\u0635\u0648\u0631\u062a \u0645\u0631\u0627\u062c\u0639\u0647 \u0645\u0633\u062a\u0642\u06cc\u0645.",
+      "description_vi": "Cung c\u1ea5p \u0111\u1ed3 n\u1ed9i th\u1ea5t mi\u1ec5n ph\u00ed nh\u01b0 gi\u01b0\u1eddng, b\u00e0n, gh\u1ebf v\u00e0 n\u1ec7m cho c\u00e1c gia \u0111\u00ecnh c\u1ea7n gi\u00fap \u0111\u1ee1, nh\u01b0ng ch\u1ec9 th\u00f4ng qua gi\u1edbi thi\u1ec7u t\u1eeb m\u1ed9t c\u01a1 quan d\u1ecbch v\u1ee5 x\u00e3 h\u1ed9i \u0111\u1ed1i t\u00e1c, kh\u00f4ng nh\u1eadn tr\u1ef1c ti\u1ebfp."
+    },
+    {
+      "id": 27,
+      "name": "Lilly Grove Missionary Baptist Church - Clothes Closet",
+      "category": "Clothing & Household Goods",
+      "neighborhood": "South Union",
+      "zip": "77021",
+      "phone": "713-748-7324",
+      "address": "7030 Tierwester St, Houston, TX 77021",
+      "website": "lillygrove.org",
+      "description": "Free clothing for men women and children including suits shirts casual wear shoes undergarments uniforms and backpacks from a dedicated house across from the church.",
+      "description_es": "Ropa gratuita para hombres, mujeres y ni\u00f1os \u2014trajes, camisas, ropa informal, zapatos, ropa interior, uniformes y mochilas\u2014 en una casa dedicada frente a la iglesia.",
+      "description_fa": "\u0644\u0628\u0627\u0633 \u0631\u0627\u06cc\u06af\u0627\u0646 \u0628\u0631\u0627\u06cc \u0645\u0631\u062f\u0627\u0646\u060c \u0632\u0646\u0627\u0646 \u0648 \u06a9\u0648\u062f\u06a9\u0627\u0646 -\u06a9\u062a\u200c\u0648\u0634\u0644\u0648\u0627\u0631\u060c \u067e\u06cc\u0631\u0627\u0647\u0646\u060c \u0644\u0628\u0627\u0633\u200c\u0647\u0627\u06cc \u0631\u0648\u0632\u0645\u0631\u0647\u060c \u06a9\u0641\u0634\u060c \u0644\u0628\u0627\u0633 \u0632\u06cc\u0631\u060c \u06cc\u0648\u0646\u06cc\u0641\u0631\u0645 \u0648 \u06a9\u0648\u0644\u0647\u200c\u067e\u0634\u062a\u06cc- \u0627\u0632 \u062e\u0627\u0646\u0647\u200c\u0627\u06cc \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0631\u0648\u0628\u0647\u200c\u0631\u0648\u06cc \u06a9\u0644\u06cc\u0633\u0627.",
+      "description_vi": "Qu\u1ea7n \u00e1o mi\u1ec5n ph\u00ed cho nam, n\u1eef v\u00e0 tr\u1ebb em \u2014 vest, \u00e1o s\u01a1 mi, trang ph\u1ee5c th\u01b0\u1eddng ng\u00e0y, gi\u00e0y, \u0111\u1ed3 l\u00f3t, \u0111\u1ed3ng ph\u1ee5c v\u00e0 ba l\u00f4 \u2014 t\u1ea1i m\u1ed9t ng\u00f4i nh\u00e0 ri\u00eang \u0111\u1ed1i di\u1ec7n nh\u00e0 th\u1edd."
+    },
+    {
+      "id": 21,
+      "name": "Memorial Assistance Ministries - Resale & Voucher Program",
+      "category": "Clothing & Household Goods",
+      "neighborhood": "Spring Branch",
+      "zip": "77080",
+      "phone": "713-491-4330",
+      "address": "1625 Blalock Rd, Houston, TX 77080",
+      "website": "mamhouston.org",
+      "description": "Issues clothing and furniture vouchers redeemable at the MAM Resale Store which also sells low-cost clothing home furnishings electronics and household items.",
+      "description_es": "Otorga vales de ropa y de muebles que se pueden usar en la tienda de reventa de MAM, la cual tambi\u00e9n vende ropa, muebles para el hogar, electr\u00f3nicos y art\u00edculos del hogar a bajo costo.",
+      "description_fa": "\u06a9\u0648\u067e\u0646\u200c\u0647\u0627\u06cc \u0631\u0627\u06cc\u06af\u0627\u0646 \u0644\u0628\u0627\u0633 \u0648 \u0645\u0628\u0644\u0645\u0627\u0646 \u0635\u0627\u062f\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f \u06a9\u0647 \u062f\u0631 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u062f\u0633\u062a\u200c\u062f\u0648\u0645 MAM \u0642\u0627\u0628\u0644 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0633\u062a\u061b \u0627\u06cc\u0646 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0644\u0628\u0627\u0633\u060c \u0648\u0633\u0627\u06cc\u0644 \u062e\u0627\u0646\u0647\u060c \u0644\u0648\u0627\u0632\u0645 \u0627\u0644\u06a9\u062a\u0631\u0648\u0646\u06cc\u06a9\u06cc \u0648 \u0627\u0642\u0644\u0627\u0645 \u062e\u0627\u0646\u06af\u06cc \u0631\u0627 \u0628\u0627 \u0642\u06cc\u0645\u062a \u067e\u0627\u06cc\u06cc\u0646 \u0645\u06cc\u200c\u0641\u0631\u0648\u0634\u062f.",
+      "description_vi": "C\u1ea5p phi\u1ebfu mua qu\u1ea7n \u00e1o v\u00e0 \u0111\u1ed3 n\u1ed9i th\u1ea5t c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng t\u1ea1i C\u1eeda h\u00e0ng B\u00e1n l\u1ea1i MAM, n\u01a1i c\u0169ng b\u00e1n qu\u1ea7n \u00e1o, \u0111\u1ed3 n\u1ed9i th\u1ea5t, \u0111\u1ed3 \u0111i\u1ec7n t\u1eed v\u00e0 v\u1eadt d\u1ee5ng gia \u0111\u00ecnh v\u1edbi gi\u00e1 th\u1ea5p."
+    },
+    {
       "id": 11,
       "name": "AAMA Adelante Adult Literacy",
       "category": "Education & ESL",
@@ -10,7 +108,9 @@
       "address": "6001 Gulf Freeway, Building E, Houston, TX 77023",
       "website": "aama.org",
       "description": "Free ESL adult basic education GED computer literacy and workforce certification classes plus free child care for qualifying students.",
-      "description_es": "Clases gratuitas de ingl\u00e9s, educaci\u00f3n b\u00e1sica para adultos, GED, alfabetizaci\u00f3n inform\u00e1tica y certificaci\u00f3n laboral, m\u00e1s cuidado infantil gratuito para estudiantes elegibles."
+      "description_es": "Clases gratuitas de ingl\u00e9s, educaci\u00f3n b\u00e1sica para adultos, GED, alfabetizaci\u00f3n inform\u00e1tica y certificaci\u00f3n laboral, m\u00e1s cuidado infantil gratuito para estudiantes elegibles.",
+      "description_fa": "\u06a9\u0644\u0627\u0633\u200c\u0647\u0627\u06cc \u0631\u0627\u06cc\u06af\u0627\u0646 \u0632\u0628\u0627\u0646 \u0627\u0646\u06af\u0644\u06cc\u0633\u06cc\u060c \u0622\u0645\u0648\u0632\u0634 \u067e\u0627\u06cc\u0647 \u0628\u0632\u0631\u06af\u0633\u0627\u0644\u0627\u0646\u060c GED\u060c \u0633\u0648\u0627\u062f \u0631\u0627\u06cc\u0627\u0646\u0647\u200c\u0627\u06cc \u0648 \u06af\u0648\u0627\u0647\u06cc\u200c\u0646\u0627\u0645\u0647\u200c\u0647\u0627\u06cc \u0634\u063a\u0644\u06cc\u060c \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u0645\u0631\u0627\u0642\u0628\u062a \u0631\u0627\u06cc\u06af\u0627\u0646 \u0627\u0632 \u06a9\u0648\u062f\u06a9\u0627\u0646 \u0628\u0631\u0627\u06cc \u062f\u0627\u0646\u0634\u200c\u0622\u0645\u0648\u0632\u0627\u0646 \u0648\u0627\u062c\u062f \u0634\u0631\u0627\u06cc\u0637.",
+      "description_vi": "L\u1edbp h\u1ecdc ti\u1ebfng Anh mi\u1ec5n ph\u00ed, gi\u00e1o d\u1ee5c c\u01a1 b\u1ea3n cho ng\u01b0\u1eddi l\u1edbn, GED, tin h\u1ecdc v\u00e0 ch\u1ee9ng ch\u1ec9 ngh\u1ec1, c\u00f9ng v\u1edbi d\u1ecbch v\u1ee5 gi\u1eef tr\u1ebb mi\u1ec5n ph\u00ed cho h\u1ecdc vi\u00ean \u0111\u1ee7 \u0111i\u1ec1u ki\u1ec7n."
     },
     {
       "id": 10,
@@ -22,7 +122,9 @@
       "address": "607 Northwood St, Houston, TX 77009",
       "website": "avancehouston.org",
       "description": "Parent and early-childhood education programs including ESL Head Start and General Equivalency Diploma preparation for low-income families.",
-      "description_es": "Programas de educaci\u00f3n para padres y primera infancia, incluyendo ingl\u00e9s (ESL), Head Start y preparaci\u00f3n para el diploma de equivalencia (GED), para familias de bajos ingresos."
+      "description_es": "Programas de educaci\u00f3n para padres y primera infancia, incluyendo ingl\u00e9s (ESL), Head Start y preparaci\u00f3n para el diploma de equivalencia (GED), para familias de bajos ingresos.",
+      "description_fa": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627\u06cc \u0622\u0645\u0648\u0632\u0634 \u0648\u0627\u0644\u062f\u06cc\u0646 \u0648 \u062f\u0648\u0631\u0627\u0646 \u06a9\u0648\u062f\u06a9\u06cc \u0627\u0648\u0644\u06cc\u0647 \u0634\u0627\u0645\u0644 \u0632\u0628\u0627\u0646 \u0627\u0646\u06af\u0644\u06cc\u0633\u06cc (ESL)\u060c Head Start \u0648 \u0622\u0645\u0627\u062f\u06af\u06cc \u0628\u0631\u0627\u06cc \u062f\u06cc\u067e\u0644\u0645 \u0645\u0639\u0627\u062f\u0644 (GED) \u0628\u0631\u0627\u06cc \u062e\u0627\u0646\u0648\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u06a9\u0645\u200c\u062f\u0631\u0622\u0645\u062f.",
+      "description_vi": "C\u00e1c ch\u01b0\u01a1ng tr\u00ecnh gi\u00e1o d\u1ee5c cho ph\u1ee5 huynh v\u00e0 tr\u1ebb nh\u1ecf, bao g\u1ed3m ti\u1ebfng Anh (ESL), Head Start v\u00e0 chu\u1ea9n b\u1ecb cho b\u1eb1ng GED, d\u00e0nh cho c\u00e1c gia \u0111\u00ecnh thu nh\u1eadp th\u1ea5p."
     },
     {
       "id": 8,
@@ -34,7 +136,9 @@
       "address": "",
       "website": "economicinitiatives.bakerripley.org",
       "description": "Free ESL GED and computer literacy classes for adult learners at multiple campuses across Harris County with no minimum education requirement.",
-      "description_es": "Clases gratuitas de ingl\u00e9s (ESL), preparaci\u00f3n para el GED y alfabetizaci\u00f3n inform\u00e1tica para adultos en varios campus del condado de Harris, sin requisito m\u00ednimo de escolaridad."
+      "description_es": "Clases gratuitas de ingl\u00e9s (ESL), preparaci\u00f3n para el GED y alfabetizaci\u00f3n inform\u00e1tica para adultos en varios campus del condado de Harris, sin requisito m\u00ednimo de escolaridad.",
+      "description_fa": "\u06a9\u0644\u0627\u0633\u200c\u0647\u0627\u06cc \u0631\u0627\u06cc\u06af\u0627\u0646 \u0632\u0628\u0627\u0646 \u0627\u0646\u06af\u0644\u06cc\u0633\u06cc (ESL)\u060c \u062f\u06cc\u067e\u0644\u0645 \u0645\u0639\u0627\u062f\u0644 (GED) \u0648 \u0633\u0648\u0627\u062f \u0631\u0627\u06cc\u0627\u0646\u0647\u200c\u0627\u06cc \u0628\u0631\u0627\u06cc \u0628\u0632\u0631\u06af\u0633\u0627\u0644\u0627\u0646 \u062f\u0631 \u0686\u0646\u062f\u06cc\u0646 \u067e\u0631\u062f\u06cc\u0633 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0647\u0631\u06cc\u0633\u060c \u0628\u062f\u0648\u0646 \u062d\u062f\u0627\u0642\u0644 \u0633\u0637\u062d \u062a\u062d\u0635\u06cc\u0644\u0627\u062a.",
+      "description_vi": "L\u1edbp h\u1ecdc ti\u1ebfng Anh (ESL), GED v\u00e0 tin h\u1ecdc mi\u1ec5n ph\u00ed cho ng\u01b0\u1eddi l\u1edbn t\u1ea1i nhi\u1ec1u c\u01a1 s\u1edf trong Qu\u1eadn Harris, kh\u00f4ng y\u00eau c\u1ea7u tr\u00ecnh \u0111\u1ed9 h\u1ecdc v\u1ea5n t\u1ed1i thi\u1ec3u."
     },
     {
       "id": 12,
@@ -46,7 +150,9 @@
       "address": "6515 Irvington Blvd, Houston, TX 77022",
       "website": "hcde-texas.org",
       "description": "Harris County Department of Education program offering free beginning through advanced ESL classes online and in person across the county.",
-      "description_es": "Programa del Departamento de Educaci\u00f3n del Condado de Harris que ofrece clases gratuitas de ingl\u00e9s, desde nivel principiante hasta avanzado, en l\u00ednea y en persona en todo el condado."
+      "description_es": "Programa del Departamento de Educaci\u00f3n del Condado de Harris que ofrece clases gratuitas de ingl\u00e9s, desde nivel principiante hasta avanzado, en l\u00ednea y en persona en todo el condado.",
+      "description_fa": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u06cc \u0627\u062f\u0627\u0631\u0647 \u0622\u0645\u0648\u0632\u0634 \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0647\u0631\u06cc\u0633 \u06a9\u0647 \u06a9\u0644\u0627\u0633\u200c\u0647\u0627\u06cc \u0631\u0627\u06cc\u06af\u0627\u0646 \u0632\u0628\u0627\u0646 \u0627\u0646\u06af\u0644\u06cc\u0633\u06cc \u0627\u0632 \u0633\u0637\u062d \u0645\u0642\u062f\u0645\u0627\u062a\u06cc \u062a\u0627 \u067e\u06cc\u0634\u0631\u0641\u062a\u0647 \u0631\u0627 \u0628\u0647\u200c\u0635\u0648\u0631\u062a \u0622\u0646\u0644\u0627\u06cc\u0646 \u0648 \u062d\u0636\u0648\u0631\u06cc \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0631\u0627\u0626\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f.",
+      "description_vi": "Ch\u01b0\u01a1ng tr\u00ecnh c\u1ee7a S\u1edf Gi\u00e1o d\u1ee5c Qu\u1eadn Harris cung c\u1ea5p c\u00e1c l\u1edbp ti\u1ebfng Anh mi\u1ec5n ph\u00ed t\u1eeb tr\u00ecnh \u0111\u1ed9 c\u01a1 b\u1ea3n \u0111\u1ebfn n\u00e2ng cao, tr\u1ef1c tuy\u1ebfn v\u00e0 tr\u1ef1c ti\u1ebfp tr\u00ean to\u00e0n qu\u1eadn."
     },
     {
       "id": 13,
@@ -58,7 +164,9 @@
       "address": "Central Library, 500 McKinney St, Houston, TX 77002",
       "website": "houstonlibrary.org",
       "description": "Free English and language-learning classes plus cultural-orientation programming open to new immigrants at branches across the city.",
-      "description_es": "Clases gratuitas de ingl\u00e9s y aprendizaje de idiomas, adem\u00e1s de programaci\u00f3n de orientaci\u00f3n cultural, abiertas a nuevos inmigrantes en sucursales de toda la ciudad."
+      "description_es": "Clases gratuitas de ingl\u00e9s y aprendizaje de idiomas, adem\u00e1s de programaci\u00f3n de orientaci\u00f3n cultural, abiertas a nuevos inmigrantes en sucursales de toda la ciudad.",
+      "description_fa": "\u06a9\u0644\u0627\u0633\u200c\u0647\u0627\u06cc \u0631\u0627\u06cc\u06af\u0627\u0646 \u0632\u0628\u0627\u0646 \u0627\u0646\u06af\u0644\u06cc\u0633\u06cc \u0648 \u06cc\u0627\u062f\u06af\u06cc\u0631\u06cc \u0632\u0628\u0627\u0646\u060c \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627\u06cc \u0622\u0634\u0646\u0627\u06cc\u06cc \u0641\u0631\u0647\u0646\u06af\u06cc\u060c \u0628\u0631\u0627\u06cc \u0645\u0647\u0627\u062c\u0631\u0627\u0646 \u062a\u0627\u0632\u0647\u200c\u0648\u0627\u0631\u062f \u062f\u0631 \u0634\u0639\u0628\u0647\u200c\u0647\u0627\u06cc \u0633\u0631\u0627\u0633\u0631 \u0634\u0647\u0631.",
+      "description_vi": "L\u1edbp h\u1ecdc ti\u1ebfng Anh v\u00e0 ng\u00f4n ng\u1eef mi\u1ec5n ph\u00ed, c\u00f9ng c\u00e1c ch\u01b0\u01a1ng tr\u00ecnh \u0111\u1ecbnh h\u01b0\u1edbng v\u0103n h\u00f3a, d\u00e0nh cho ng\u01b0\u1eddi nh\u1eadp c\u01b0 m\u1edbi t\u1ea1i c\u00e1c chi nh\u00e1nh tr\u00ean to\u00e0n th\u00e0nh ph\u1ed1."
     },
     {
       "id": 9,
@@ -70,7 +178,9 @@
       "address": "1625 Blalock Rd, Houston, TX 77080",
       "website": "mamhouston.org",
       "description": "Free English and reading classes for adults running since 1964 supported by volunteer tutors plus citizenship and employment-readiness classes.",
-      "description_es": "Clases gratuitas de ingl\u00e9s y lectura para adultos, en funcionamiento desde 1964, con tutores voluntarios, adem\u00e1s de clases de ciudadan\u00eda y preparaci\u00f3n laboral."
+      "description_es": "Clases gratuitas de ingl\u00e9s y lectura para adultos, en funcionamiento desde 1964, con tutores voluntarios, adem\u00e1s de clases de ciudadan\u00eda y preparaci\u00f3n laboral.",
+      "description_fa": "\u06a9\u0644\u0627\u0633\u200c\u0647\u0627\u06cc \u0631\u0627\u06cc\u06af\u0627\u0646 \u0632\u0628\u0627\u0646 \u0627\u0646\u06af\u0644\u06cc\u0633\u06cc \u0648 \u062e\u0648\u0627\u0646\u062f\u0646 \u0628\u0631\u0627\u06cc \u0628\u0632\u0631\u06af\u0633\u0627\u0644\u0627\u0646 \u06a9\u0647 \u0627\u0632 \u0633\u0627\u0644 \u06f1\u06f9\u06f6\u06f4 \u0628\u0627 \u06a9\u0645\u06a9 \u0622\u0645\u0648\u0632\u0634\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u062f\u0627\u0648\u0637\u0644\u0628 \u0628\u0631\u06af\u0632\u0627\u0631 \u0645\u06cc\u200c\u0634\u0648\u062f\u060c \u0647\u0645\u0631\u0627\u0647 \u0628\u0627 \u06a9\u0644\u0627\u0633\u200c\u0647\u0627\u06cc \u062a\u0627\u0628\u0639\u06cc\u062a \u0648 \u0622\u0645\u0627\u062f\u06af\u06cc \u0634\u063a\u0644\u06cc.",
+      "description_vi": "L\u1edbp h\u1ecdc ti\u1ebfng Anh v\u00e0 \u0111\u1ecdc mi\u1ec5n ph\u00ed cho ng\u01b0\u1eddi l\u1edbn, ho\u1ea1t \u0111\u1ed9ng t\u1eeb n\u0103m 1964 v\u1edbi s\u1ef1 h\u1ed7 tr\u1ee3 c\u1ee7a gia s\u01b0 t\u00ecnh nguy\u1ec7n, c\u00f9ng v\u1edbi c\u00e1c l\u1edbp h\u1ecdc nh\u1eadp t\u1ecbch v\u00e0 chu\u1ea9n b\u1ecb vi\u1ec7c l\u00e0m."
     },
     {
       "id": 17,
@@ -82,7 +192,9 @@
       "address": "535 Portwall St, Houston, TX 77029",
       "website": "houstonfoodbank.org",
       "description": "Largest hunger-relief organization in southeast Texas coordinating pantries meal programs and produce distributions across 18 counties.",
-      "description_es": "El mayor organismo de ayuda contra el hambre del sureste de Texas; coordina despensas, programas de comidas y distribuci\u00f3n de productos frescos en 18 condados."
+      "description_es": "El mayor organismo de ayuda contra el hambre del sureste de Texas; coordina despensas, programas de comidas y distribuci\u00f3n de productos frescos en 18 condados.",
+      "description_fa": "\u0628\u0632\u0631\u06af\u200c\u062a\u0631\u06cc\u0646 \u0633\u0627\u0632\u0645\u0627\u0646 \u0627\u0645\u062f\u0627\u062f \u06af\u0631\u0633\u0646\u06af\u06cc \u062f\u0631 \u062c\u0646\u0648\u0628\u200c\u0634\u0631\u0642 \u062a\u06af\u0632\u0627\u0633 \u06a9\u0647 \u0627\u0646\u0628\u0627\u0631\u0647\u0627\u06cc \u063a\u0630\u0627\u060c \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627\u06cc \u0648\u0639\u062f\u0647 \u063a\u0630\u0627\u06cc\u06cc \u0648 \u062a\u0648\u0632\u06cc\u0639 \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u062a\u0627\u0632\u0647 \u0631\u0627 \u062f\u0631 \u06f1\u06f8 \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0647\u0645\u0627\u0647\u0646\u06af \u0645\u06cc\u200c\u06a9\u0646\u062f.",
+      "description_vi": "T\u1ed5 ch\u1ee9c c\u1ee9u tr\u1ee3 n\u1ea1n \u0111\u00f3i l\u1edbn nh\u1ea5t \u0110\u00f4ng Nam Texas, \u0111i\u1ec1u ph\u1ed1i c\u00e1c kho th\u1ef1c ph\u1ea9m, ch\u01b0\u01a1ng tr\u00ecnh b\u1eefa \u0103n v\u00e0 ph\u00e2n ph\u1ed1i n\u00f4ng s\u1ea3n tr\u00ean 18 qu\u1eadn."
     },
     {
       "id": 19,
@@ -94,7 +206,9 @@
       "address": "3303 Main St, Houston, TX 77002",
       "website": "imgh.org",
       "description": "Emergency food assistance and a Meals on Wheels senior meals program alongside refugee housing English classes and job placement support.",
-      "description_es": "Asistencia alimentaria de emergencia y el programa de comidas para personas mayores Meals on Wheels, adem\u00e1s de vivienda para refugiados, clases de ingl\u00e9s y apoyo para conseguir empleo."
+      "description_es": "Asistencia alimentaria de emergencia y el programa de comidas para personas mayores Meals on Wheels, adem\u00e1s de vivienda para refugiados, clases de ingl\u00e9s y apoyo para conseguir empleo.",
+      "description_fa": "\u06a9\u0645\u06a9 \u063a\u0630\u0627\u06cc\u06cc \u0627\u0636\u0637\u0631\u0627\u0631\u06cc \u0648 \u0628\u0631\u0646\u0627\u0645\u0647 \u0648\u0639\u062f\u0647\u200c\u0647\u0627\u06cc \u063a\u0630\u0627\u06cc\u06cc \u0633\u0627\u0644\u0645\u0646\u062f\u0627\u0646 Meals on Wheels\u060c \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u0645\u0633\u06a9\u0646 \u067e\u0646\u0627\u0647\u0646\u062f\u06af\u0627\u0646\u060c \u06a9\u0644\u0627\u0633\u200c\u0647\u0627\u06cc \u0632\u0628\u0627\u0646 \u0627\u0646\u06af\u0644\u06cc\u0633\u06cc \u0648 \u06a9\u0645\u06a9 \u0628\u0647 \u06cc\u0627\u0641\u062a\u0646 \u0634\u063a\u0644.",
+      "description_vi": "H\u1ed7 tr\u1ee3 th\u1ef1c ph\u1ea9m kh\u1ea9n c\u1ea5p v\u00e0 ch\u01b0\u01a1ng tr\u00ecnh b\u1eefa \u0103n cho ng\u01b0\u1eddi cao tu\u1ed5i Meals on Wheels, c\u00f9ng v\u1edbi nh\u00e0 \u1edf cho ng\u01b0\u1eddi t\u1ecb n\u1ea1n, l\u1edbp h\u1ecdc ti\u1ebfng Anh v\u00e0 h\u1ed7 tr\u1ee3 t\u00ecm vi\u1ec7c l\u00e0m."
     },
     {
       "id": 20,
@@ -106,7 +220,9 @@
       "address": "8790 Hammerly Blvd, Houston, TX 77080",
       "website": "kidsmealsinc.org",
       "description": "Delivers free healthy meals on weekdays to the homes of children under six and connects families to a broader support network.",
-      "description_es": "Entrega comidas gratuitas y saludables entre semana a los hogares de ni\u00f1os menores de seis a\u00f1os, y conecta a las familias con una red de apoyo m\u00e1s amplia."
+      "description_es": "Entrega comidas gratuitas y saludables entre semana a los hogares de ni\u00f1os menores de seis a\u00f1os, y conecta a las familias con una red de apoyo m\u00e1s amplia.",
+      "description_fa": "\u062f\u0631 \u0631\u0648\u0632\u0647\u0627\u06cc \u0647\u0641\u062a\u0647 \u0648\u0639\u062f\u0647\u200c\u0647\u0627\u06cc \u063a\u0630\u0627\u06cc\u06cc \u0631\u0627\u06cc\u06af\u0627\u0646 \u0648 \u0633\u0627\u0644\u0645 \u0631\u0627 \u0628\u0647 \u062e\u0627\u0646\u0647 \u06a9\u0648\u062f\u06a9\u0627\u0646 \u0632\u06cc\u0631 \u0634\u0634 \u0633\u0627\u0644 \u062a\u062d\u0648\u06cc\u0644 \u0645\u06cc\u200c\u062f\u0647\u062f \u0648 \u062e\u0627\u0646\u0648\u0627\u062f\u0647\u200c\u0647\u0627 \u0631\u0627 \u0628\u0647 \u0634\u0628\u06a9\u0647 \u06af\u0633\u062a\u0631\u062f\u0647\u200c\u062a\u0631\u06cc \u0627\u0632 \u062d\u0645\u0627\u06cc\u062a \u0645\u062a\u0635\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f.",
+      "description_vi": "Giao b\u1eefa \u0103n mi\u1ec5n ph\u00ed, l\u00e0nh m\u1ea1nh v\u00e0o c\u00e1c ng\u00e0y trong tu\u1ea7n \u0111\u1ebfn t\u1eadn nh\u00e0 cho tr\u1ebb em d\u01b0\u1edbi s\u00e1u tu\u1ed5i, v\u00e0 k\u1ebft n\u1ed1i c\u00e1c gia \u0111\u00ecnh v\u1edbi m\u1ea1ng l\u01b0\u1edbi h\u1ed7 tr\u1ee3 r\u1ed9ng l\u1edbn h\u01a1n."
     },
     {
       "id": 18,
@@ -118,7 +234,9 @@
       "address": "2814 Quitman St, Houston, TX 77026",
       "website": "targethunger.org",
       "description": "Food assistance and navigation programs that provided food to more than 25000 individuals and 9200 households across Houston in 2025.",
-      "description_es": "Programas de asistencia alimentaria y orientaci\u00f3n que en 2025 brindaron alimentos a m\u00e1s de 25,000 personas y 9,200 hogares en Houston."
+      "description_es": "Programas de asistencia alimentaria y orientaci\u00f3n que en 2025 brindaron alimentos a m\u00e1s de 25,000 personas y 9,200 hogares en Houston.",
+      "description_fa": "\u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627\u06cc \u06a9\u0645\u06a9 \u063a\u0630\u0627\u06cc\u06cc \u0648 \u0631\u0627\u0647\u0646\u0645\u0627\u06cc\u06cc \u06a9\u0647 \u062f\u0631 \u0633\u0627\u0644 \u06f2\u06f0\u06f2\u06f5 \u0628\u0647 \u0628\u06cc\u0634 \u0627\u0632 \u06f2\u06f5\u066c\u06f0\u06f0\u06f0 \u0646\u0641\u0631 \u0648 \u06f9\u066c\u06f2\u06f0\u06f0 \u062e\u0627\u0646\u0648\u0627\u0631 \u062f\u0631 \u0647\u06cc\u0648\u0633\u062a\u0648\u0646 \u063a\u0630\u0627 \u0631\u0633\u0627\u0646\u062f\u0646\u062f.",
+      "description_vi": "C\u00e1c ch\u01b0\u01a1ng tr\u00ecnh h\u1ed7 tr\u1ee3 th\u1ef1c ph\u1ea9m v\u00e0 h\u01b0\u1edbng d\u1eabn \u0111\u00e3 cung c\u1ea5p th\u1ef1c ph\u1ea9m cho h\u01a1n 25.000 c\u00e1 nh\u00e2n v\u00e0 9.200 h\u1ed9 gia \u0111\u00ecnh t\u1ea1i Houston trong n\u0103m 2025."
     },
     {
       "id": 15,
@@ -130,7 +248,9 @@
       "address": "7037 Capitol St, Ste N100, Houston, TX 77011",
       "website": "elcentrodecorazon.org",
       "description": "Federally qualified health center serving low-income and predominantly Hispanic families in Houston's East End with medical and dental care.",
-      "description_es": "Centro de salud federalmente calificado que atiende a familias de bajos ingresos, mayormente hispanas, en el East End de Houston, con atenci\u00f3n m\u00e9dica y dental."
+      "description_es": "Centro de salud federalmente calificado que atiende a familias de bajos ingresos, mayormente hispanas, en el East End de Houston, con atenci\u00f3n m\u00e9dica y dental.",
+      "description_fa": "\u0645\u0631\u06a9\u0632 \u0628\u0647\u062f\u0627\u0634\u062a\u06cc \u0648\u0627\u062c\u062f \u0634\u0631\u0627\u06cc\u0637 \u0641\u062f\u0631\u0627\u0644 \u06a9\u0647 \u0628\u0647 \u062e\u0627\u0646\u0648\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u06a9\u0645\u200c\u062f\u0631\u0622\u0645\u062f \u0648 \u0639\u0645\u062f\u062a\u0627\u064b \u0647\u06cc\u0633\u067e\u0627\u0646\u06cc\u06a9 \u062f\u0631 East End \u0647\u06cc\u0648\u0633\u062a\u0648\u0646 \u062e\u062f\u0645\u0627\u062a \u067e\u0632\u0634\u06a9\u06cc \u0648 \u062f\u0646\u062f\u0627\u0646\u067e\u0632\u0634\u06a9\u06cc \u0627\u0631\u0627\u0626\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f.",
+      "description_vi": "Trung t\u00e2m y t\u1ebf \u0111\u1ee7 \u0111i\u1ec1u ki\u1ec7n li\u00ean bang ph\u1ee5c v\u1ee5 c\u00e1c gia \u0111\u00ecnh thu nh\u1eadp th\u1ea5p, ch\u1ee7 y\u1ebfu l\u00e0 ng\u01b0\u1eddi g\u1ed1c Hispanic, t\u1ea1i khu East End c\u1ee7a Houston, v\u1edbi d\u1ecbch v\u1ee5 y t\u1ebf v\u00e0 nha khoa."
     },
     {
       "id": 14,
@@ -142,7 +262,9 @@
       "address": "7001 Corporate Dr, #120, Houston, TX 77036",
       "website": "hopechc.org",
       "description": "Multicultural community health center providing primary medical dental and behavioral health care for low-income and immigrant families.",
-      "description_es": "Centro de salud comunitario multicultural que brinda atenci\u00f3n m\u00e9dica primaria, dental y de salud mental para familias de bajos ingresos e inmigrantes."
+      "description_es": "Centro de salud comunitario multicultural que brinda atenci\u00f3n m\u00e9dica primaria, dental y de salud mental para familias de bajos ingresos e inmigrantes.",
+      "description_fa": "\u0645\u0631\u06a9\u0632 \u0628\u0647\u062f\u0627\u0634\u062a \u062c\u0627\u0645\u0639\u0647 \u0686\u0646\u062f\u0641\u0631\u0647\u0646\u06af\u06cc \u06a9\u0647 \u0645\u0631\u0627\u0642\u0628\u062a\u200c\u0647\u0627\u06cc \u067e\u0632\u0634\u06a9\u06cc \u0639\u0645\u0648\u0645\u06cc\u060c \u062f\u0646\u062f\u0627\u0646\u067e\u0632\u0634\u06a9\u06cc \u0648 \u0631\u0641\u062a\u0627\u0631\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc \u062e\u0627\u0646\u0648\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u06a9\u0645\u200c\u062f\u0631\u0622\u0645\u062f \u0648 \u0645\u0647\u0627\u062c\u0631 \u0627\u0631\u0627\u0626\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f.",
+      "description_vi": "Trung t\u00e2m y t\u1ebf c\u1ed9ng \u0111\u1ed3ng \u0111a v\u0103n h\u00f3a cung c\u1ea5p d\u1ecbch v\u1ee5 ch\u0103m s\u00f3c y t\u1ebf, nha khoa v\u00e0 t\u00e2m l\u00fd cho c\u00e1c gia \u0111\u00ecnh thu nh\u1eadp th\u1ea5p v\u00e0 nh\u1eadp c\u01b0."
     },
     {
       "id": 16,
@@ -154,7 +276,9 @@
       "address": "",
       "website": "legacycommunityhealth.org",
       "description": "Federally qualified health network with clinics across Houston offering sliding-scale primary care for low-income and uninsured residents.",
-      "description_es": "Red de salud federalmente calificada con cl\u00ednicas en toda el \u00e1rea de Houston que ofrece atenci\u00f3n primaria con tarifas ajustadas seg\u00fan ingresos para personas de bajos ingresos y sin seguro."
+      "description_es": "Red de salud federalmente calificada con cl\u00ednicas en toda el \u00e1rea de Houston que ofrece atenci\u00f3n primaria con tarifas ajustadas seg\u00fan ingresos para personas de bajos ingresos y sin seguro.",
+      "description_fa": "\u0634\u0628\u06a9\u0647 \u0628\u0647\u062f\u0627\u0634\u062a\u06cc \u0648\u0627\u062c\u062f \u0634\u0631\u0627\u06cc\u0637 \u0641\u062f\u0631\u0627\u0644 \u0628\u0627 \u06a9\u0644\u06cc\u0646\u06cc\u06a9\u200c\u0647\u0627\u06cc\u06cc \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u0647\u06cc\u0648\u0633\u062a\u0648\u0646 \u06a9\u0647 \u0645\u0631\u0627\u0642\u0628\u062a\u200c\u0647\u0627\u06cc \u0627\u0648\u0644\u06cc\u0647 \u0628\u0627 \u0647\u0632\u06cc\u0646\u0647 \u0645\u062a\u0646\u0627\u0633\u0628 \u0628\u0627 \u062f\u0631\u0622\u0645\u062f \u0628\u0631\u0627\u06cc \u0627\u0641\u0631\u0627\u062f \u06a9\u0645\u200c\u062f\u0631\u0622\u0645\u062f \u0648 \u0628\u062f\u0648\u0646 \u0628\u06cc\u0645\u0647 \u0627\u0631\u0627\u0626\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f.",
+      "description_vi": "M\u1ea1ng l\u01b0\u1edbi y t\u1ebf \u0111\u1ee7 \u0111i\u1ec1u ki\u1ec7n li\u00ean bang v\u1edbi c\u00e1c ph\u00f2ng kh\u00e1m kh\u1eafp Houston, cung c\u1ea5p d\u1ecbch v\u1ee5 ch\u0103m s\u00f3c ban \u0111\u1ea7u v\u1edbi m\u1ee9c ph\u00ed theo thu nh\u1eadp cho ng\u01b0\u1eddi thu nh\u1eadp th\u1ea5p v\u00e0 kh\u00f4ng c\u00f3 b\u1ea3o hi\u1ec3m."
     },
     {
       "id": 7,
@@ -166,7 +290,9 @@
       "address": "6500 Rookin St, Houston, TX 77074",
       "website": "bakerripley.org",
       "description": "Five-building neighborhood campus offering early childhood education youth programs immigration services and a community garden for residents from 80-plus countries.",
-      "description_es": "Campus comunitario de cinco edificios que ofrece educaci\u00f3n infantil temprana, programas juveniles, servicios de inmigraci\u00f3n y un jard\u00edn comunitario para residentes de m\u00e1s de 80 pa\u00edses."
+      "description_es": "Campus comunitario de cinco edificios que ofrece educaci\u00f3n infantil temprana, programas juveniles, servicios de inmigraci\u00f3n y un jard\u00edn comunitario para residentes de m\u00e1s de 80 pa\u00edses.",
+      "description_fa": "\u067e\u0631\u062f\u06cc\u0633 \u0645\u062d\u0644\u0647\u200c\u0627\u06cc \u067e\u0646\u062c\u200c\u0633\u0627\u062e\u062a\u0645\u0627\u0646\u0647 \u06a9\u0647 \u0622\u0645\u0648\u0632\u0634 \u067e\u06cc\u0634\u200c\u062f\u0628\u0633\u062a\u0627\u0646\u06cc\u060c \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627\u06cc \u062c\u0648\u0627\u0646\u0627\u0646\u060c \u062e\u062f\u0645\u0627\u062a \u0645\u0647\u0627\u062c\u0631\u062a \u0648 \u06cc\u06a9 \u0628\u0627\u063a \u0627\u062c\u062a\u0645\u0627\u0639\u06cc \u0628\u0631\u0627\u06cc \u0633\u0627\u06a9\u0646\u0627\u0646 \u0628\u06cc\u0634 \u0627\u0632 \u06f8\u06f0 \u06a9\u0634\u0648\u0631 \u0627\u0631\u0627\u0626\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f.",
+      "description_vi": "Khu\u00f4n vi\u00ean khu ph\u1ed1 g\u1ed3m n\u0103m t\u00f2a nh\u00e0, cung c\u1ea5p gi\u00e1o d\u1ee5c m\u1ea7m non, ch\u01b0\u01a1ng tr\u00ecnh cho thanh thi\u1ebfu ni\u00ean, d\u1ecbch v\u1ee5 di tr\u00fa v\u00e0 m\u1ed9t khu v\u01b0\u1eddn c\u1ed9ng \u0111\u1ed3ng d\u00e0nh cho c\u01b0 d\u00e2n t\u1eeb h\u01a1n 80 qu\u1ed1c gia."
     },
     {
       "id": 5,
@@ -178,7 +304,9 @@
       "address": "11360 Bellaire Blvd, Ste 910, Houston, TX 77072",
       "website": "bpsos.org",
       "description": "Boat People S.O.S. affiliate supporting Vietnamese and other Southeast Asian immigrant and refugee families with case management and civic engagement.",
-      "description_es": "Afiliado de Boat People S.O.S. que apoya a familias inmigrantes y refugiadas vietnamitas y de otros pa\u00edses del sudeste asi\u00e1tico con gesti\u00f3n de casos y participaci\u00f3n c\u00edvica."
+      "description_es": "Afiliado de Boat People S.O.S. que apoya a familias inmigrantes y refugiadas vietnamitas y de otros pa\u00edses del sudeste asi\u00e1tico con gesti\u00f3n de casos y participaci\u00f3n c\u00edvica.",
+      "description_fa": "\u0634\u0639\u0628\u0647\u200c\u06cc Boat People S.O.S. \u06a9\u0647 \u0627\u0632 \u062e\u0627\u0646\u0648\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0645\u0647\u0627\u062c\u0631 \u0648 \u067e\u0646\u0627\u0647\u0646\u062f\u0647 \u0648\u06cc\u062a\u0646\u0627\u0645\u06cc \u0648 \u062f\u06cc\u06af\u0631 \u06a9\u0634\u0648\u0631\u0647\u0627\u06cc \u062c\u0646\u0648\u0628 \u0634\u0631\u0642 \u0622\u0633\u06cc\u0627 \u0628\u0627 \u0645\u062f\u06cc\u0631\u06cc\u062a \u067e\u0631\u0648\u0646\u062f\u0647 \u0648 \u0645\u0634\u0627\u0631\u06a9\u062a \u0645\u062f\u0646\u06cc \u062d\u0645\u0627\u06cc\u062a \u0645\u06cc\u200c\u06a9\u0646\u062f.",
+      "description_vi": "Chi nh\u00e1nh c\u1ee7a Boat People S.O.S. h\u1ed7 tr\u1ee3 c\u00e1c gia \u0111\u00ecnh nh\u1eadp c\u01b0 v\u00e0 t\u1ecb n\u1ea1n ng\u01b0\u1eddi Vi\u1ec7t v\u00e0 c\u00e1c n\u01b0\u1edbc \u0110\u00f4ng Nam \u00c1 kh\u00e1c th\u00f4ng qua qu\u1ea3n l\u00fd h\u1ed3 s\u01a1 v\u00e0 tham gia ho\u1ea1t \u0111\u1ed9ng c\u1ed9ng \u0111\u1ed3ng."
     },
     {
       "id": 3,
@@ -190,7 +318,9 @@
       "address": "6671 Southwest Fwy, Ste 760, Houston, TX 77074",
       "website": "cwshouston.org",
       "description": "Resettlement case management housing assistance ESL and cultural orientation referrals and support for unaccompanied minors transitioning into local care.",
-      "description_es": "Gesti\u00f3n de casos de reasentamiento, ayuda con vivienda, clases de ingl\u00e9s (ESL), orientaci\u00f3n cultural y apoyo a menores no acompa\u00f1ados en su transici\u00f3n a cuidado local."
+      "description_es": "Gesti\u00f3n de casos de reasentamiento, ayuda con vivienda, clases de ingl\u00e9s (ESL), orientaci\u00f3n cultural y apoyo a menores no acompa\u00f1ados en su transici\u00f3n a cuidado local.",
+      "description_fa": "\u0645\u062f\u06cc\u0631\u06cc\u062a \u067e\u0631\u0648\u0646\u062f\u0647 \u0627\u0633\u06a9\u0627\u0646 \u0645\u062c\u062f\u062f\u060c \u06a9\u0645\u06a9 \u0645\u0633\u06a9\u0646\u060c \u06a9\u0644\u0627\u0633\u200c\u0647\u0627\u06cc \u0632\u0628\u0627\u0646 \u0627\u0646\u06af\u0644\u06cc\u0633\u06cc (ESL)\u060c \u0622\u0634\u0646\u0627\u06cc\u06cc \u0641\u0631\u0647\u0646\u06af\u06cc \u0648 \u062d\u0645\u0627\u06cc\u062a \u0627\u0632 \u0646\u0648\u062c\u0648\u0627\u0646\u0627\u0646 \u0628\u062f\u0648\u0646 \u0647\u0645\u0631\u0627\u0647 \u062f\u0631 \u0627\u0646\u062a\u0642\u0627\u0644 \u0628\u0647 \u0645\u0631\u0627\u0642\u0628\u062a \u0645\u062d\u0644\u06cc.",
+      "description_vi": "Qu\u1ea3n l\u00fd h\u1ed3 s\u01a1 t\u00e1i \u0111\u1ecbnh c\u01b0, h\u1ed7 tr\u1ee3 nh\u00e0 \u1edf, l\u1edbp h\u1ecdc ti\u1ebfng Anh (ESL), \u0111\u1ecbnh h\u01b0\u1edbng v\u0103n h\u00f3a v\u00e0 h\u1ed7 tr\u1ee3 tr\u1ebb v\u1ecb th\u00e0nh ni\u00ean kh\u00f4ng c\u00f3 ng\u01b0\u1eddi \u0111i k\u00e8m trong qu\u00e1 tr\u00ecnh chuy\u1ec3n sang ch\u0103m s\u00f3c t\u1ea1i \u0111\u1ecba ph\u01b0\u01a1ng."
     },
     {
       "id": 4,
@@ -202,7 +332,9 @@
       "address": "2900 Louisiana St, Houston, TX 77006",
       "website": "catholiccharities.org",
       "description": "Refugee resettlement immigration legal services family strengthening and senior services serving more than 85000 people a year across the region.",
-      "description_es": "Reasentamiento de refugiados, servicios legales de inmigraci\u00f3n, fortalecimiento familiar y servicios para personas mayores; atiende a m\u00e1s de 85,000 personas al a\u00f1o en la regi\u00f3n."
+      "description_es": "Reasentamiento de refugiados, servicios legales de inmigraci\u00f3n, fortalecimiento familiar y servicios para personas mayores; atiende a m\u00e1s de 85,000 personas al a\u00f1o en la regi\u00f3n.",
+      "description_fa": "\u0627\u0633\u06a9\u0627\u0646 \u0645\u062c\u062f\u062f \u067e\u0646\u0627\u0647\u0646\u062f\u06af\u0627\u0646\u060c \u062e\u062f\u0645\u0627\u062a \u062d\u0642\u0648\u0642\u06cc \u0645\u0647\u0627\u062c\u0631\u062a\u060c \u062a\u0642\u0648\u06cc\u062a \u062e\u0627\u0646\u0648\u0627\u062f\u0647 \u0648 \u062e\u062f\u0645\u0627\u062a \u0633\u0627\u0644\u0645\u0646\u062f\u0627\u0646\u061b \u0633\u0627\u0644\u0627\u0646\u0647 \u0628\u0647 \u0628\u06cc\u0634 \u0627\u0632 \u06f8\u06f5\u066c\u06f0\u06f0\u06f0 \u0646\u0641\u0631 \u062f\u0631 \u0627\u06cc\u0646 \u0645\u0646\u0637\u0642\u0647 \u062e\u062f\u0645\u062a \u0645\u06cc\u200c\u06a9\u0646\u062f.",
+      "description_vi": "T\u00e1i \u0111\u1ecbnh c\u01b0 ng\u01b0\u1eddi t\u1ecb n\u1ea1n, d\u1ecbch v\u1ee5 ph\u00e1p l\u00fd di tr\u00fa, c\u1ee7ng c\u1ed1 gia \u0111\u00ecnh v\u00e0 d\u1ecbch v\u1ee5 cho ng\u01b0\u1eddi cao tu\u1ed5i; ph\u1ee5c v\u1ee5 h\u01a1n 85.000 ng\u01b0\u1eddi m\u1ed7i n\u0103m trong khu v\u1ef1c."
     },
     {
       "id": 6,
@@ -214,7 +346,9 @@
       "address": "",
       "website": "houstonwelcomesrefugees.com",
       "description": "Volunteer welcome teams that deliver welcome kits and groceries and connect newly arrived refugees to critical resources in their first months.",
-      "description_es": "Equipos voluntarios de bienvenida que entregan kits de bienvenida y despensa, y conectan a refugiados reci\u00e9n llegados con recursos esenciales durante sus primeros meses."
+      "description_es": "Equipos voluntarios de bienvenida que entregan kits de bienvenida y despensa, y conectan a refugiados reci\u00e9n llegados con recursos esenciales durante sus primeros meses.",
+      "description_fa": "\u062a\u06cc\u0645\u200c\u0647\u0627\u06cc \u062f\u0627\u0648\u0637\u0644\u0628 \u062e\u0648\u0634\u200c\u0622\u0645\u062f\u06af\u0648\u06cc\u06cc \u06a9\u0647 \u0628\u0633\u062a\u0647\u200c\u0647\u0627\u06cc \u062e\u0648\u0634\u200c\u0622\u0645\u062f\u06af\u0648\u06cc\u06cc \u0648 \u0645\u0648\u0627\u062f \u063a\u0630\u0627\u06cc\u06cc \u062a\u062d\u0648\u06cc\u0644 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f \u0648 \u067e\u0646\u0627\u0647\u0646\u062f\u06af\u0627\u0646 \u062a\u0627\u0632\u0647\u200c\u0648\u0627\u0631\u062f \u0631\u0627 \u062f\u0631 \u0645\u0627\u0647\u200c\u0647\u0627\u06cc \u0646\u062e\u0633\u062a \u0628\u0647 \u0645\u0646\u0627\u0628\u0639 \u062d\u06cc\u0627\u062a\u06cc \u0645\u062a\u0635\u0644 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f.",
+      "description_vi": "C\u00e1c \u0111\u1ed9i t\u00ecnh nguy\u1ec7n ch\u00e0o \u0111\u00f3n trao t\u1eb7ng t\u00fai qu\u00e0 ch\u00e0o m\u1eebng v\u00e0 th\u1ef1c ph\u1ea9m, k\u1ebft n\u1ed1i ng\u01b0\u1eddi t\u1ecb n\u1ea1n m\u1edbi \u0111\u1ebfn v\u1edbi c\u00e1c ngu\u1ed3n h\u1ed7 tr\u1ee3 quan tr\u1ecdng trong nh\u1eefng th\u00e1ng \u0111\u1ea7u ti\u00ean."
     },
     {
       "id": 2,
@@ -226,7 +360,9 @@
       "address": "11111 Richmond Ave, Suite 350, Houston, TX 77082",
       "website": "refugees.org",
       "description": "Field office of the U.S. Committee for Refugees and Immigrants providing integration support health navigation and partner referrals for newly arrived families.",
-      "description_es": "Oficina local del Comit\u00e9 de EE. UU. para Refugiados e Inmigrantes que brinda apoyo de integraci\u00f3n, orientaci\u00f3n de salud y referencias a organizaciones aliadas para familias reci\u00e9n llegadas."
+      "description_es": "Oficina local del Comit\u00e9 de EE. UU. para Refugiados e Inmigrantes que brinda apoyo de integraci\u00f3n, orientaci\u00f3n de salud y referencias a organizaciones aliadas para familias reci\u00e9n llegadas.",
+      "description_fa": "\u062f\u0641\u062a\u0631 \u0645\u062d\u0644\u06cc \u06a9\u0645\u06cc\u062a\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u067e\u0646\u0627\u0647\u0646\u062f\u06af\u0627\u0646 \u0648 \u0645\u0647\u0627\u062c\u0631\u0627\u0646 \u06a9\u0647 \u062d\u0645\u0627\u06cc\u062a \u0627\u062f\u063a\u0627\u0645\u060c \u0631\u0627\u0647\u0646\u0645\u0627\u06cc\u06cc \u0633\u0644\u0627\u0645\u062a \u0648 \u0645\u0639\u0631\u0641\u06cc \u0628\u0647 \u0633\u0627\u0632\u0645\u0627\u0646\u200c\u0647\u0627\u06cc \u0647\u0645\u06a9\u0627\u0631 \u0631\u0627 \u0628\u0631\u0627\u06cc \u062e\u0627\u0646\u0648\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u062a\u0627\u0632\u0647\u200c\u0648\u0627\u0631\u062f \u0627\u0631\u0627\u0626\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f.",
+      "description_vi": "V\u0103n ph\u00f2ng \u0111\u1ecba ph\u01b0\u01a1ng c\u1ee7a \u1ee6y ban Ng\u01b0\u1eddi T\u1ecb n\u1ea1n v\u00e0 Ng\u01b0\u1eddi Nh\u1eadp c\u01b0 Hoa K\u1ef3, cung c\u1ea5p h\u1ed7 tr\u1ee3 h\u00f2a nh\u1eadp, h\u01b0\u1edbng d\u1eabn v\u1ec1 s\u1ee9c kh\u1ecfe v\u00e0 gi\u1edbi thi\u1ec7u \u0111\u1ebfn c\u00e1c t\u1ed5 ch\u1ee9c \u0111\u1ed1i t\u00e1c cho c\u00e1c gia \u0111\u00ecnh m\u1edbi \u0111\u1ebfn."
     },
     {
       "id": 1,
@@ -238,7 +374,9 @@
       "address": "6300 Westpark Dr, Ste 600, Houston, TX 77057",
       "website": "ymcahouston.org",
       "description": "Case management cultural orientation employment services and immigration legal help for refugees and immigrants in one of Houston's most diverse zip codes.",
-      "description_es": "Gesti\u00f3n de casos, orientaci\u00f3n cultural, servicios de empleo y ayuda legal de inmigraci\u00f3n para refugiados e inmigrantes en uno de los c\u00f3digos postales m\u00e1s diversos de Houston."
+      "description_es": "Gesti\u00f3n de casos, orientaci\u00f3n cultural, servicios de empleo y ayuda legal de inmigraci\u00f3n para refugiados e inmigrantes en uno de los c\u00f3digos postales m\u00e1s diversos de Houston.",
+      "description_fa": "\u0645\u062f\u06cc\u0631\u06cc\u062a \u067e\u0631\u0648\u0646\u062f\u0647\u060c \u0622\u0634\u0646\u0627\u06cc\u06cc \u0641\u0631\u0647\u0646\u06af\u06cc\u060c \u062e\u062f\u0645\u0627\u062a \u0627\u0634\u062a\u063a\u0627\u0644 \u0648 \u06a9\u0645\u06a9 \u062d\u0642\u0648\u0642\u06cc \u0645\u0647\u0627\u062c\u0631\u062a \u0628\u0631\u0627\u06cc \u067e\u0646\u0627\u0647\u0646\u062f\u06af\u0627\u0646 \u0648 \u0645\u0647\u0627\u062c\u0631\u0627\u0646 \u062f\u0631 \u06cc\u06a9\u06cc \u0627\u0632 \u0645\u062a\u0646\u0648\u0639\u200c\u062a\u0631\u06cc\u0646 \u06a9\u062f\u0647\u0627\u06cc \u067e\u0633\u062a\u06cc \u0647\u06cc\u0648\u0633\u062a\u0648\u0646.",
+      "description_vi": "Qu\u1ea3n l\u00fd h\u1ed3 s\u01a1, \u0111\u1ecbnh h\u01b0\u1edbng v\u0103n h\u00f3a, d\u1ecbch v\u1ee5 vi\u1ec7c l\u00e0m v\u00e0 h\u1ed7 tr\u1ee3 ph\u00e1p l\u00fd di tr\u00fa cho ng\u01b0\u1eddi t\u1ecb n\u1ea1n v\u00e0 ng\u01b0\u1eddi nh\u1eadp c\u01b0 t\u1ea1i m\u1ed9t trong nh\u1eefng khu v\u1ef1c \u0111a d\u1ea1ng nh\u1ea5t c\u1ee7a Houston."
     }
   ],
   "neighborhood_context": [
@@ -248,7 +386,9 @@
       "pct_foreign_born": 59.0,
       "context": "Residents come from more than 80 countries including Somalia Afghanistan Pakistan Mexico and Central America. Some surrounding minority-majority areas have as many as 45 percent of households struggling to afford basic necessities.",
       "source": "Gulfton Complete Communities Action Plan; Brookings Institution (BakerRipley feature)",
-      "context_es": "Los residentes provienen de m\u00e1s de 80 pa\u00edses, incluyendo Somalia, Afganist\u00e1n, Pakist\u00e1n, M\u00e9xico y Centroam\u00e9rica. En algunas \u00e1reas cercanas de mayor\u00eda minoritaria, hasta el 45 por ciento de los hogares tiene dificultades para cubrir sus necesidades b\u00e1sicas."
+      "context_es": "Los residentes provienen de m\u00e1s de 80 pa\u00edses, incluyendo Somalia, Afganist\u00e1n, Pakist\u00e1n, M\u00e9xico y Centroam\u00e9rica. En algunas \u00e1reas cercanas de mayor\u00eda minoritaria, hasta el 45 por ciento de los hogares tiene dificultades para cubrir sus necesidades b\u00e1sicas.",
+      "context_fa": "\u0633\u0627\u06a9\u0646\u0627\u0646 \u0627\u0632 \u0628\u06cc\u0634 \u0627\u0632 \u06f8\u06f0 \u06a9\u0634\u0648\u0631 \u0627\u0632 \u062c\u0645\u0644\u0647 \u0633\u0648\u0645\u0627\u0644\u06cc\u060c \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646\u060c \u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u060c \u0645\u06a9\u0632\u06cc\u06a9 \u0648 \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc \u0645\u0631\u06a9\u0632\u06cc \u0645\u06cc\u200c\u0622\u06cc\u0646\u062f. \u062f\u0631 \u0628\u0631\u062e\u06cc \u0645\u0646\u0627\u0637\u0642 \u0627\u0637\u0631\u0627\u0641 \u0628\u0627 \u0627\u06a9\u062b\u0631\u06cc\u062a \u0627\u0642\u0644\u06cc\u062a\u200c\u0647\u0627\u060c \u062a\u0627 \u06f4\u06f5 \u062f\u0631\u0635\u062f \u062e\u0627\u0646\u0648\u0627\u0631\u0647\u0627 \u0628\u0631\u0627\u06cc \u062a\u0623\u0645\u06cc\u0646 \u0646\u06cc\u0627\u0632\u0647\u0627\u06cc \u0627\u0648\u0644\u06cc\u0647 \u062f\u0686\u0627\u0631 \u0645\u0634\u06a9\u0644 \u0647\u0633\u062a\u0646\u062f.",
+      "context_vi": "C\u01b0 d\u00e2n \u0111\u1ebfn t\u1eeb h\u01a1n 80 qu\u1ed1c gia bao g\u1ed3m Somalia, Afghanistan, Pakistan, Mexico v\u00e0 Trung M\u1ef9. M\u1ed9t s\u1ed1 khu v\u1ef1c l\u00e2n c\u1eadn c\u00f3 \u0111a s\u1ed1 d\u00e2n t\u1ed9c thi\u1ec3u s\u1ed1, c\u00f3 t\u1edbi 45% h\u1ed9 gia \u0111\u00ecnh g\u1eb7p kh\u00f3 kh\u0103n trong vi\u1ec7c chi tr\u1ea3 c\u00e1c nhu c\u1ea7u thi\u1ebft y\u1ebfu."
     },
     {
       "neighborhood": "Alief",
@@ -256,7 +396,9 @@
       "pct_foreign_born": null,
       "context": "Historically called Little Saigon after Vietnamese refugees settled there following the Vietnam War; today home to a broader mix of Asian and Latino immigrant communities.",
       "source": "H-Town Happens; Welcome to Houston TX",
-      "context_es": "Hist\u00f3ricamente conocido como 'Little Saigon' por los refugiados vietnamitas que se establecieron all\u00ed tras la guerra de Vietnam; hoy es hogar de una mezcla m\u00e1s amplia de comunidades inmigrantes asi\u00e1ticas y latinas."
+      "context_es": "Hist\u00f3ricamente conocido como 'Little Saigon' por los refugiados vietnamitas que se establecieron all\u00ed tras la guerra de Vietnam; hoy es hogar de una mezcla m\u00e1s amplia de comunidades inmigrantes asi\u00e1ticas y latinas.",
+      "context_fa": "\u0627\u06cc\u0646 \u0645\u0646\u0637\u0642\u0647 \u06a9\u0647 \u067e\u0633 \u0627\u0632 \u0627\u0633\u06a9\u0627\u0646 \u067e\u0646\u0627\u0647\u0646\u062f\u06af\u0627\u0646 \u0648\u06cc\u062a\u0646\u0627\u0645\u06cc \u067e\u0633 \u0627\u0632 \u062c\u0646\u06af \u0648\u06cc\u062a\u0646\u0627\u0645 \u0628\u0647\u200c\u0637\u0648\u0631 \u062a\u0627\u0631\u06cc\u062e\u06cc \u00ab\u0633\u0627\u06cc\u06af\u0648\u0646 \u06a9\u0648\u0686\u06a9\u00bb \u0646\u0627\u0645\u06cc\u062f\u0647 \u0645\u06cc\u200c\u0634\u062f\u060c \u0627\u0645\u0631\u0648\u0632 \u062e\u0627\u0646\u0647\u200c\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc \u06af\u0633\u062a\u0631\u062f\u0647\u200c\u062a\u0631\u06cc \u0627\u0632 \u062c\u0648\u0627\u0645\u0639 \u0645\u0647\u0627\u062c\u0631 \u0622\u0633\u06cc\u0627\u06cc\u06cc \u0648 \u0644\u0627\u062a\u06cc\u0646 \u0627\u0633\u062a.",
+      "context_vi": "Tr\u01b0\u1edbc \u0111\u00e2y \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 'S\u00e0i G\u00f2n Nh\u1ecf' sau khi ng\u01b0\u1eddi t\u1ecb n\u1ea1n Vi\u1ec7t Nam \u0111\u1ecbnh c\u01b0 t\u1ea1i \u0111\u00e2y sau chi\u1ebfn tranh Vi\u1ec7t Nam; ng\u00e0y nay l\u00e0 n\u01a1i sinh s\u1ed1ng c\u1ee7a m\u1ed9t c\u1ed9ng \u0111\u1ed3ng nh\u1eadp c\u01b0 \u0111a d\u1ea1ng h\u01a1n g\u1ed3m ng\u01b0\u1eddi ch\u00e2u \u00c1 v\u00e0 ng\u01b0\u1eddi g\u1ed1c Latinh."
     },
     {
       "neighborhood": "Spring Branch",
@@ -264,7 +406,9 @@
       "pct_foreign_born": null,
       "context": "Significant Korean-American (Koreatown) and Hispanic immigrant communities living alongside older affordable apartment complexes near newer single-family subdivisions.",
       "source": "Wikipedia: Spring Branch Houston",
-      "context_es": "Importantes comunidades inmigrantes coreano-americanas (Koreatown) e hispanas que conviven junto a complejos de apartamentos asequibles m\u00e1s antiguos, cerca de nuevos desarrollos de casas unifamiliares."
+      "context_es": "Importantes comunidades inmigrantes coreano-americanas (Koreatown) e hispanas que conviven junto a complejos de apartamentos asequibles m\u00e1s antiguos, cerca de nuevos desarrollos de casas unifamiliares.",
+      "context_fa": "\u062c\u0648\u0627\u0645\u0639 \u0628\u0632\u0631\u06af \u0645\u0647\u0627\u062c\u0631 \u06a9\u0631\u0647\u200c\u0627\u06cc-\u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc (\u06a9\u0631\u0647\u200c\u062a\u0627\u0648\u0646) \u0648 \u0647\u06cc\u0633\u067e\u0627\u0646\u06cc\u06a9 \u06a9\u0647 \u062f\u0631 \u06a9\u0646\u0627\u0631 \u0645\u062c\u062a\u0645\u0639\u200c\u0647\u0627\u06cc \u0622\u067e\u0627\u0631\u062a\u0645\u0627\u0646\u06cc \u0642\u062f\u06cc\u0645\u06cc\u200c\u062a\u0631 \u0648 \u0645\u0642\u0631\u0648\u0646\u200c\u0628\u0647\u200c\u0635\u0631\u0641\u0647\u060c \u0646\u0632\u062f\u06cc\u06a9 \u0628\u0647 \u062a\u0648\u0633\u0639\u0647\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u062e\u0627\u0646\u0647\u200c\u0647\u0627\u06cc \u062a\u06a9\u200c\u062e\u0627\u0646\u0648\u0627\u0631\u06cc \u0632\u0646\u062f\u06af\u06cc \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f.",
+      "context_vi": "C\u1ed9ng \u0111\u1ed3ng ng\u01b0\u1eddi M\u1ef9 g\u1ed1c H\u00e0n (Koreatown) v\u00e0 ng\u01b0\u1eddi g\u1ed1c Hispanic \u0111\u00f4ng \u0111\u1ea3o, s\u1ed1ng c\u1ea1nh c\u00e1c khu chung c\u01b0 gi\u00e1 ph\u1ea3i ch\u0103ng c\u0169 h\u01a1n, g\u1ea7n c\u00e1c khu nh\u00e0 \u1edf \u0111\u01a1n l\u1eadp m\u1edbi."
     },
     {
       "neighborhood": "Sharpstown",
@@ -272,7 +416,9 @@
       "pct_foreign_born": null,
       "context": "Adjacent to Gulfton and grouped with it in city planning and BakerRipley service delivery as one of the most densely populated and diverse parts of Houston outside downtown.",
       "source": "Brookings Institution (BakerRipley feature)",
-      "context_es": "Colinda con Gulfton y se agrupa junto a este en la planificaci\u00f3n urbana y en los servicios de BakerRipley, como una de las zonas m\u00e1s densamente pobladas y diversas de Houston fuera del centro."
+      "context_es": "Colinda con Gulfton y se agrupa junto a este en la planificaci\u00f3n urbana y en los servicios de BakerRipley, como una de las zonas m\u00e1s densamente pobladas y diversas de Houston fuera del centro.",
+      "context_fa": "\u0647\u0645\u0633\u0627\u06cc\u0647\u200c\u06cc \u06af\u0644\u0641\u062a\u0648\u0646 \u0627\u0633\u062a \u0648 \u062f\u0631 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u0634\u0647\u0631\u06cc \u0648 \u062e\u062f\u0645\u0627\u062a BakerRipley \u0647\u0645\u0631\u0627\u0647 \u0628\u0627 \u0622\u0646 \u06af\u0631\u0648\u0647\u200c\u0628\u0646\u062f\u06cc \u0645\u06cc\u200c\u0634\u0648\u062f\u060c \u0628\u0647\u200c\u0639\u0646\u0648\u0627\u0646 \u06cc\u06a9\u06cc \u0627\u0632 \u067e\u0631\u062c\u0645\u0639\u06cc\u062a\u200c\u062a\u0631\u06cc\u0646 \u0648 \u0645\u062a\u0646\u0648\u0639\u200c\u062a\u0631\u06cc\u0646 \u0628\u062e\u0634\u200c\u0647\u0627\u06cc \u0647\u06cc\u0648\u0633\u062a\u0648\u0646 \u062e\u0627\u0631\u062c \u0627\u0632 \u0645\u0631\u06a9\u0632 \u0634\u0647\u0631.",
+      "context_vi": "Gi\u00e1p v\u1edbi Gulfton v\u00e0 \u0111\u01b0\u1ee3c x\u1ebfp chung trong quy ho\u1ea1ch th\u00e0nh ph\u1ed1 c\u0169ng nh\u01b0 d\u1ecbch v\u1ee5 c\u1ee7a BakerRipley, l\u00e0 m\u1ed9t trong nh\u1eefng khu v\u1ef1c \u0111\u00f4ng d\u00e2n v\u00e0 \u0111a d\u1ea1ng nh\u1ea5t c\u1ee7a Houston ngo\u00e0i trung t\u00e2m th\u00e0nh ph\u1ed1."
     },
     {
       "neighborhood": "Houston (citywide)",
@@ -280,7 +426,9 @@
       "pct_foreign_born": 29.0,
       "context": "Citywide foreign-born share used as the baseline comparison point against individual neighborhoods such as Gulfton.",
       "source": "Gulfton Complete Communities Action Plan",
-      "context_es": "Porcentaje de poblaci\u00f3n nacida en el extranjero a nivel de toda la ciudad, usado como punto de comparaci\u00f3n con vecindarios individuales como Gulfton."
+      "context_es": "Porcentaje de poblaci\u00f3n nacida en el extranjero a nivel de toda la ciudad, usado como punto de comparaci\u00f3n con vecindarios individuales como Gulfton.",
+      "context_fa": "\u0633\u0647\u0645 \u062c\u0645\u0639\u06cc\u062a \u0645\u062a\u0648\u0644\u062f \u062e\u0627\u0631\u062c \u0627\u0632 \u06a9\u0634\u0648\u0631 \u062f\u0631 \u0633\u0637\u062d \u06a9\u0644 \u0634\u0647\u0631\u060c \u06a9\u0647 \u0628\u0647\u200c\u0639\u0646\u0648\u0627\u0646 \u0645\u0628\u0646\u0627\u06cc \u0645\u0642\u0627\u06cc\u0633\u0647 \u0628\u0627 \u0645\u062d\u0644\u0647\u200c\u0647\u0627\u06cc \u062c\u062f\u0627\u06af\u0627\u0646\u0647 \u0645\u0627\u0646\u0646\u062f \u06af\u0644\u0641\u062a\u0648\u0646 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f.",
+      "context_vi": "T\u1ef7 l\u1ec7 d\u00e2n s\u1ed1 sinh ra \u1edf n\u01b0\u1edbc ngo\u00e0i tr\u00ean to\u00e0n th\u00e0nh ph\u1ed1, d\u00f9ng l\u00e0m \u0111i\u1ec3m so s\u00e1nh c\u01a1 b\u1ea3n v\u1edbi c\u00e1c khu v\u1ef1c ri\u00eang l\u1ebb nh\u01b0 Gulfton."
     },
     {
       "neighborhood": "Harris County (food insecurity)",
@@ -288,7 +436,9 @@
       "pct_foreign_born": 13.8,
       "context": "Share of the Harris County population estimated to experience food insecurity at some point during the year.",
       "source": "Target Hunger",
-      "context_es": "Porcentaje de la poblaci\u00f3n del condado de Harris que se estima experimenta inseguridad alimentaria en alg\u00fan momento del a\u00f1o."
+      "context_es": "Porcentaje de la poblaci\u00f3n del condado de Harris que se estima experimenta inseguridad alimentaria en alg\u00fan momento del a\u00f1o.",
+      "context_fa": "\u0633\u0647\u0645 \u062c\u0645\u0639\u06cc\u062a \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0647\u0631\u06cc\u0633 \u06a9\u0647 \u062a\u062e\u0645\u06cc\u0646 \u0632\u062f\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f \u062f\u0631 \u0628\u0631\u062e\u06cc \u0645\u0648\u0627\u0642\u0639 \u0633\u0627\u0644 \u0646\u0627\u0627\u0645\u0646\u06cc \u063a\u0630\u0627\u06cc\u06cc \u0631\u0627 \u062a\u062c\u0631\u0628\u0647 \u0645\u06cc\u200c\u06a9\u0646\u062f.",
+      "context_vi": "T\u1ef7 l\u1ec7 d\u00e2n s\u1ed1 Qu\u1eadn Harris \u0111\u01b0\u1ee3c \u01b0\u1edbc t\u00ednh tr\u1ea3i qua t\u00ecnh tr\u1ea1ng m\u1ea5t an ninh l\u01b0\u01a1ng th\u1ef1c v\u00e0o m\u1ed9t th\u1eddi \u0111i\u1ec3m n\u00e0o \u0111\u00f3 trong n\u0103m."
     }
   ]
 }

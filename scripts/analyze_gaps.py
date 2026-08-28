@@ -25,6 +25,7 @@ CATEGORIES = [
     "Education & ESL",
     "Healthcare",
     "Food Assistance",
+    "Clothing & Household Goods",
 ]
 
 FOCUS_NEIGHBORHOODS = ["Gulfton", "Alief", "Spring Branch", "Sharpstown"]

@@ -3,10 +3,12 @@
 A small data pipeline and web app that maps food, health, education, and
 refugee/immigration services against the Houston neighborhoods where
 low-income and refugee families are concentrated, and flags where local
-coverage is thin. The web app is available in English and Spanish — every
-organization description, neighborhood profile, and piece of UI text has a
-verified Spanish translation, not just a machine-translated pass, since most
-of the focus neighborhoods are majority non-English-speaking.
+coverage is thin. The web app is available in English, Spanish, Farsi, and
+Vietnamese — every organization description, neighborhood profile, and piece
+of UI text is translated in all four languages (Farsi renders full
+right-to-left layout), since Gulfton and Alief specifically are home to large
+Afghan/Persian-speaking and Vietnamese communities documented in this
+project's own neighborhood data.
 
 Built as a portfolio project connecting hands-on community program experience
 (Missions Director, Sharpstown Baptist Church) with MIS coursework in SQL,
@@ -31,11 +33,11 @@ service coverage?*
 
 | Piece | What it does |
 |---|---|
-| `data/` | Curated CSVs: 20 real Houston organizations across 5 service categories, each with a verified phone number and street address where one exists, plus neighborhood demographic context with sources |
+| `data/` | Curated CSVs: 27 real Houston organizations across 6 service categories, each with a verified phone number and street address where one exists, plus neighborhood demographic context with sources |
 | `scripts/build_database.py` | Loads the CSVs into a SQLite database |
 | `scripts/analyze_gaps.py` | Runs SQL queries to count resources by neighborhood/category and flag coverage gaps; exports data for the web app |
 | `scripts/export_dashboard.py` | Builds an Excel dashboard with live `COUNTIFS` formulas, conditional-formatted gap flags, and a chart |
-| `web/` | A filterable, searchable resource locator in English and Spanish (vanilla HTML/CSS/JS, no build step) |
+| `web/` | A filterable, searchable resource locator in English, Spanish, Farsi, and Vietnamese (vanilla HTML/CSS/JS, no build step) |
 | `docs/findings.md` | A short needs-assessment style writeup: methodology, findings, limitations, sources |
 | `dashboard/` | The generated Excel workbook |
 | `database/` | The generated SQLite database |
@@ -67,7 +69,8 @@ without it).
 Gulfton — the neighborhood with the highest foreign-born share in the dataset
 (59%, versus 29% citywide) — has no directory resource with a *verified*
 local presence in Refugee & Immigration Services, Education & ESL,
-Healthcare, or Food Assistance; its only local entry is the BakerRipley
+Healthcare, Food Assistance, or Clothing & Household Goods; its only local
+entry is the BakerRipley
 Gulfton-Sharpstown campus. That's a sharper finding than an earlier pass of
 this project reported, once two entries turned out to be organizations that
 have since shut down and a third's real office address (found while verifying
@@ -79,13 +82,17 @@ numbers.
 
 ## Honest limitations
 
-This is a portfolio project, not an official services directory. Twenty
-organizations is a sample, not a census of what's available through 211 Texas
-or findhelp.org, "neighborhood" is a simplification for organizations that
-serve the whole city, and every phone number, address, and website was
-verified against an official source as of August 2026 but will drift out of
-date over time. Anyone using this to actually find help should call 211 or
-check directly with the organization. `docs/findings.md` lays out what a more
+This is a portfolio project, not an official services directory.
+Twenty-seven organizations is a sample, not a census of what's available
+through 211 Texas or findhelp.org, "neighborhood" is a simplification for
+organizations that serve the whole city, and every phone number, address,
+and website was verified against an official source as of August 2026 but
+will drift out of date over time. The Clothing & Household Goods category in
+particular has thin coverage in the four focus neighborhoods themselves —
+most verified entries sit elsewhere in the city and were included anyway
+because they're real, operating, and reachable by phone, not because they're
+local. Anyone using this to actually find help should call 211 or check
+directly with the organization. `docs/findings.md` lays out what a more
 rigorous version of this would need.
 
 ## About the author

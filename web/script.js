@@ -4,7 +4,10 @@ const CATEGORY_TAGS = {
   "Education & ESL": "tag-edu",
   "Healthcare": "tag-health",
   "Food Assistance": "tag-food",
+  "Clothing & Household Goods": "tag-clothing",
 };
+
+const RTL_LANGS = ["fa"];
 
 const CATEGORY_LABELS = {
   en: {
@@ -13,6 +16,7 @@ const CATEGORY_LABELS = {
     "Education & ESL": "Education & ESL",
     "Healthcare": "Healthcare",
     "Food Assistance": "Food Assistance",
+    "Clothing & Household Goods": "Clothing & Household Goods",
   },
   es: {
     "Refugee & Immigration Services": "Servicios de Refugiados e Inmigración",
@@ -20,6 +24,23 @@ const CATEGORY_LABELS = {
     "Education & ESL": "Educación e Inglés (ESL)",
     "Healthcare": "Atención Médica",
     "Food Assistance": "Asistencia Alimentaria",
+    "Clothing & Household Goods": "Ropa y Artículos del Hogar",
+  },
+  fa: {
+    "Refugee & Immigration Services": "خدمات پناهندگان و مهاجرت",
+    "Multi-Service Community Center": "مرکز جامع خدمات اجتماعی",
+    "Education & ESL": "آموزش و زبان انگلیسی",
+    "Healthcare": "خدمات درمانی",
+    "Food Assistance": "کمک غذایی",
+    "Clothing & Household Goods": "پوشاک و لوازم خانگی",
+  },
+  vi: {
+    "Refugee & Immigration Services": "Dịch Vụ Người Tị Nạn & Di Trú",
+    "Multi-Service Community Center": "Trung Tâm Cộng Đồng Đa Dịch Vụ",
+    "Education & ESL": "Giáo Dục & Anh Ngữ (ESL)",
+    "Healthcare": "Chăm Sóc Sức Khỏe",
+    "Food Assistance": "Hỗ Trợ Thực Phẩm",
+    "Clothing & Household Goods": "Quần Áo & Đồ Dùng Gia Đình",
   },
 };
 
@@ -71,6 +92,54 @@ const I18N = {
       Datos recopilados de fuentes públicas; consulta <code>docs/findings.md</code> para ver fuentes
       y metodología. Creado por Raymond Ochonogor.`,
   },
+  fa: {
+    eyebrow: "هیوستون، تگزاس",
+    title: "راهنمای منابع اجتماعی",
+    standfirst: `فهرستی از خدمات واقعی غذا، سلامت، آموزش و اسکان مجدد برای خانواده‌های
+      کم‌درآمد و پناهنده، بر اساس محله‌هایی که بیشترین نیاز را دارند. در
+      <strong>گلفتون</strong>، <strong>۵۹٪ از ساکنان خارج از ایالات متحده متولد
+      شده‌اند</strong>، در مقایسه با ۲۹٪ در کل شهر.`,
+    spotlightHeading: "محله‌های ویژه",
+    foreignBorn: "متولد خارج از کشور",
+    searchPlaceholder: "جستجو بر اساس نام یا کلمه کلیدی…",
+    allNeighborhoods: "همه محله‌ها",
+    allCategories: "همه دسته‌ها",
+    resultCount: (n) => `${n} منبع نمایش داده شد`,
+    emptyState: "هیچ منبعی با این فیلترها مطابقت ندارد — یک فیلتر را حذف کنید یا جستجوی خود را گسترده‌تر کنید.",
+    noContact: "شماره تلفن یا وب‌سایتی ثبت نشده است — برای تأیید اطلاعات تماس فعلی با ۲۱۱ تماس بگیرید.",
+    call: "تماس",
+    directions: "مسیر یابی",
+    footer: `این یک پروژه نمونه‌کار دانشجویی/آموزشی است، نه یک سرویس ارجاع رسمی — لطفاً
+      ساعات کاری، شرایط واجد شرایط بودن و اطلاعات تماس فعلی را مستقیماً با هر
+      سازمان تأیید کنید، یا پیش از اعتماد به این فهرست با <strong>۲۱۱</strong>
+      (وزارت بهداشت و خدمات انسانی تگزاس) تماس بگیرید. داده‌ها از منابع عمومی
+      گردآوری شده‌اند؛ برای منابع و روش‌شناسی به <code>docs/findings.md</code>
+      مراجعه کنید. ساخته شده توسط ریموند اوچونوگور.`,
+  },
+  vi: {
+    eyebrow: "Houston, Texas",
+    title: "Công cụ tìm tài nguyên cộng đồng",
+    standfirst: `Danh bạ các dịch vụ thực phẩm, y tế, giáo dục và tái định cư dành cho
+      các gia đình thu nhập thấp và tị nạn, được xây dựng theo các khu vực cần
+      nhất. Tại <strong>Gulfton</strong>, <strong>59% cư dân sinh ra ngoài Hoa
+      Kỳ</strong>, so với 29% toàn thành phố.`,
+    spotlightHeading: "Khu vực nổi bật",
+    foreignBorn: "sinh ra ở nước ngoài",
+    searchPlaceholder: "Tìm theo tên hoặc từ khóa…",
+    allNeighborhoods: "Tất cả khu vực",
+    allCategories: "Tất cả danh mục",
+    resultCount: (n) => `${n} tài nguyên được hiển thị`,
+    emptyState: "Không có tài nguyên nào phù hợp với bộ lọc này — hãy thử bỏ bớt bộ lọc hoặc mở rộng tìm kiếm.",
+    noContact: "Chưa có số điện thoại hoặc trang web — hãy gọi 211 để xác nhận thông tin liên hệ hiện tại.",
+    call: "Gọi",
+    directions: "Chỉ đường",
+    footer: `Đây là dự án học thuật/hồ sơ cá nhân, không phải là dịch vụ giới thiệu
+      chính thức &mdash; vui lòng xác nhận giờ làm việc, điều kiện và thông tin
+      liên hệ hiện tại trực tiếp với từng tổ chức, hoặc gọi <strong>211</strong>
+      (Sở Y tế và Dịch vụ Nhân sinh Texas) trước khi dựa vào danh sách này. Dữ
+      liệu được tổng hợp từ các nguồn công khai; xem <code>docs/findings.md</code>
+      để biết nguồn và phương pháp. Thực hiện bởi Raymond Ochonogor.`,
+  },
 };
 
 const FOCUS_NEIGHBORHOODS = ["Gulfton", "Alief", "Spring Branch", "Sharpstown"];
@@ -78,10 +147,12 @@ const FOCUS_NEIGHBORHOODS = ["Gulfton", "Alief", "Spring Branch", "Sharpstown"];
 const resources = RESOURCE_DATA.resources;
 const context = RESOURCE_DATA.neighborhood_context;
 
+const SUPPORTED_LANGS = ["en", "es", "fa", "vi"];
+
 function getSavedLang() {
   try {
     const saved = localStorage.getItem("navigatorLang");
-    if (saved === "en" || saved === "es") return saved;
+    if (SUPPORTED_LANGS.includes(saved)) return saved;
   } catch (e) {}
   return "en";
 }
@@ -96,19 +167,24 @@ function contextFor(name) {
   return context.find((c) => c.neighborhood === name) || {};
 }
 
+function localizedField(obj, baseKey) {
+  const localizedKey = `${baseKey}_${state.lang}`;
+  if (state.lang !== "en" && obj[localizedKey]) return obj[localizedKey];
+  return obj[baseKey] || "";
+}
+
 function localizedContext(ctx) {
-  if (state.lang === "es" && ctx.context_es) return ctx.context_es;
-  return ctx.context || "";
+  return localizedField(ctx, "context");
 }
 
 function localizedDescription(r) {
-  if (state.lang === "es" && r.description_es) return r.description_es;
-  return r.description;
+  return localizedField(r, "description");
 }
 
 function renderStaticText() {
   const strings = t();
   document.documentElement.lang = state.lang;
+  document.documentElement.dir = RTL_LANGS.includes(state.lang) ? "rtl" : "ltr";
   document.getElementById("txtEyebrow").textContent = strings.eyebrow;
   document.getElementById("txtTitle").textContent = strings.title;
   document.getElementById("txtStandfirst").innerHTML = strings.standfirst;
@@ -189,6 +265,8 @@ function matchesFilters(r) {
     r.name.toLowerCase().includes(q) ||
     r.description.toLowerCase().includes(q) ||
     (r.description_es || "").toLowerCase().includes(q) ||
+    (r.description_fa || "").toLowerCase().includes(q) ||
+    (r.description_vi || "").toLowerCase().includes(q) ||
     r.category.toLowerCase().includes(q);
   const neighborhoodOk = !state.neighborhood || r.neighborhood === state.neighborhood;
   const categoryOk = !state.category || r.category === state.category;
@@ -251,7 +329,7 @@ function render() {
 }
 
 function setLanguage(lang) {
-  if (lang !== "en" && lang !== "es") return;
+  if (!SUPPORTED_LANGS.includes(lang)) return;
   state.lang = lang;
   try { localStorage.setItem("navigatorLang", lang); } catch (e) {}
   renderSpotlight();

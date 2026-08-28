@@ -18,10 +18,21 @@
 
 body {
   margin: 0;
-  font-family: 'Public Sans', sans-serif;
+  font-family: 'Public Sans', 'Tahoma', 'Segoe UI', sans-serif;
   background: var(--paper);
   color: var(--ink);
   line-height: 1.5;
+}
+
+html[dir="rtl"] .spot-card,
+html[dir="rtl"] .card {
+  text-align: right;
+}
+
+html[dir="rtl"] .card .links,
+html[dir="rtl"] .controls,
+html[dir="rtl"] .pill-row {
+  direction: rtl;
 }
 
 .wrap {
@@ -230,6 +241,7 @@ section.spotlight h2 {
 .tag-edu { background: #e3e3f0; color: #38356f; }
 .tag-health { background: #f6e0dc; color: #8c2f1f; }
 .tag-food { background: #e7efd6; color: #44551c; }
+.tag-clothing { background: #ecdcef; color: #5a2a63; }
 
 .card h3 {
   font-family: 'Fraunces', serif;

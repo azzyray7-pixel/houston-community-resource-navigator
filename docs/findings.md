@@ -21,15 +21,19 @@ and a directory second.
    high foreign-born, high-immigrant, or historically refugee-receiving areas
    (see Sources below) — not because of original demographic analysis in this
    project.
-2. **Build a resource directory.** Twenty real organizations serving
+2. **Build a resource directory.** Twenty-seven real organizations serving
    low-income, immigrant, or refugee Houstonians were identified through web
-   research, grouped into five categories (Refugee & Immigration Services,
-   Multi-Service Community Center, Education & ESL, Healthcare, and Food
-   Assistance), and given a verified phone number and street address where
-   one exists. Two organizations from an earlier pass of this directory —
-   Refugee Services of Texas–Houston and The Alliance for Multicultural
-   Community Services — were removed after verification showed both had
-   permanently closed (2023 and June 2024, respectively). Details live in
+   research, grouped into six categories (Refugee & Immigration Services,
+   Multi-Service Community Center, Education & ESL, Healthcare, Food
+   Assistance, and Clothing & Household Goods), and given a verified phone
+   number and street address where one exists. Two organizations from an
+   earlier pass of this directory — Refugee Services of Texas–Houston and
+   The Alliance for Multicultural Community Services — were removed after
+   verification showed both had permanently closed (2023 and June 2024,
+   respectively). Several candidate organizations for the Clothing &
+   Household Goods category were investigated and left out for the same
+   reason — a well-known St. Vincent de Paul voucher ministry location, for
+   instance, could not be confirmed as still operating. Details live in
    `data/resources.csv`.
 3. **Cross-reference against neighborhood context.** `data/neighborhood_context.csv`
    captures what public sources say about each focus neighborhood (for
@@ -48,7 +52,8 @@ than an earlier version of this project found. After verifying every
 organization's real phone number and address, Gulfton — the focus
 neighborhood with the highest foreign-born share (59%, versus 29% citywide)
 — has **no verified local presence in Refugee & Immigration Services,
-Education & ESL, Healthcare, or Food Assistance**; its only directory entry
+Education & ESL, Healthcare, Food Assistance, or Clothing & Household
+Goods**; its only directory entry
 with a confirmed Gulfton address is the BakerRipley Gulfton-Sharpstown
 campus. Two contributing factors: two organizations previously listed there
 have permanently closed (see Method above), and a third — YMCA International
@@ -73,13 +78,18 @@ run `scripts/analyze_gaps.py` to print them to the terminal.
 
 ## Limitations
 
-This directory is illustrative, not exhaustive. Twenty organizations is a
-fraction of what 211 Texas or findhelp.org list for Harris County, several
+This directory is illustrative, not exhaustive. Twenty-seven organizations is
+a fraction of what 211 Texas or findhelp.org list for Harris County, several
 real organizations are intentionally omitted because their contact details
-could not be confirmed, and "neighborhood" is a simplification — most large
-nonprofits serve far beyond their headquarters location, so a directory
-organized by office address will systematically undercount an organization's
-real reach into a neighborhood it doesn't have a building in. A genuine needs
+could not be confirmed or because they turned out to be closed, and
+"neighborhood" is a simplification — most large nonprofits serve far beyond
+their headquarters location, so a directory organized by office address will
+systematically undercount an organization's real reach into a neighborhood
+it doesn't have a building in. The Clothing & Household Goods category is a
+clear example: strong candidates exist citywide, but almost none could be
+verified as physically located in Gulfton, Alief, or Sharpstown specifically,
+which likely says more about where this kind of directory-based research can
+find a confirmable address than about whether help actually exists nearby. A genuine needs
 assessment would pair this kind of structural mapping with primary data:
 intercept surveys at community centers, interviews with case managers at
 organizations like BakerRipley or YMCA International Services, and Census
@@ -113,3 +123,13 @@ ACS tract-level data rather than secondary citations of it.
 - Organization websites and directories cited inline in `data/resources.csv`
   (YMCA International Services, Catholic Charities of Galveston-Houston,
   Houston Food Bank, BakerRipley, and others)
+
+## Language
+
+The web app is available in English, Spanish, Farsi, and Vietnamese, with
+Farsi rendered right-to-left. Farsi and Vietnamese were added because this
+project's own neighborhood data documents large Afghan/Persian-speaking and
+Vietnamese communities in Gulfton and Alief specifically — a directory built
+for this audience that only translated the button labels, and not the actual
+organization descriptions someone needs to read to decide whether to call,
+would not meaningfully help a non-English or non-Spanish speaker.

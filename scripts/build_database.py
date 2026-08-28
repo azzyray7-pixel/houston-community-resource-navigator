@@ -33,7 +33,9 @@ def build_database():
             address TEXT,
             website TEXT,
             description TEXT,
-            description_es TEXT
+            description_es TEXT,
+            description_fa TEXT,
+            description_vi TEXT
         );
 
         CREATE TABLE neighborhood_context (
@@ -42,7 +44,9 @@ def build_database():
             pct_foreign_born REAL,
             context TEXT,
             source TEXT,
-            context_es TEXT
+            context_es TEXT,
+            context_fa TEXT,
+            context_vi TEXT
         );
     """)
 
@@ -50,24 +54,25 @@ def build_database():
         reader = csv.DictReader(f)
         rows = [
             (r["id"], r["name"], r["category"], r["neighborhood"], r["zip"],
-             r["phone"], r["address"], r["website"], r["description"], r["description_es"])
+             r["phone"], r["address"], r["website"], r["description"], r["description_es"],
+             r["description_fa"], r["description_vi"])
             for r in reader
         ]
     cur.executemany(
-        "INSERT INTO resources (id, name, category, neighborhood, zip, phone, address, website, description, description_es) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", rows
+        "INSERT INTO resources (id, name, category, neighborhood, zip, phone, address, website, description, description_es, description_fa, description_vi) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", rows
     )
 
     with open(CONTEXT_CSV, newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         rows = [
             (r["neighborhood"], r["primary_zip"], r["pct_foreign_born"] or None,
-             r["context"], r["source"], r["context_es"])
+             r["context"], r["source"], r["context_es"], r["context_fa"], r["context_vi"])
             for r in reader
         ]
     cur.executemany(
-        "INSERT INTO neighborhood_context (neighborhood, primary_zip, pct_foreign_born, context, source, context_es) "
-        "VALUES (?, ?, ?, ?, ?, ?)", rows
+        "INSERT INTO neighborhood_context (neighborhood, primary_zip, pct_foreign_born, context, source, context_es, context_fa, context_vi) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?)", rows
     )
 
     conn.commit()
